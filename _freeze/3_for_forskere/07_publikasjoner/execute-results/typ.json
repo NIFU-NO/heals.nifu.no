@@ -1,0 +1,15 @@
+{
+  "hash": "ac2e3ee381b7c8e5eda86604264c9472",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Publikasjoner\"\nbibliography: references.bib\neval: false\necho: false\ncache: true\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n\n\n\n\n\n\n\n\n\n\n\n---\n\n---\n\n### Arbeider i prosjektet\n\n::: {#refs}\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

@@ -1,5 +1,5 @@
 ---
-title: "Personvern"
+title: "Utdypende om personvern"
 ---
 
 ## Utdypende om personvern – hvordan vi oppbevarer og bruker dine opplysninger
@@ -14,15 +14,15 @@ Avidentifiserte innsamlede data fra spørreskjemaene oversendes UiO. UiO kobler 
 
 Dere får denne forespørselen fordi vi kontakter skoler i hele Norge. Det er behov for ekstra mange skoler i denne studien for å få nok data til å oppdage variasjon. Vi har innhentet kontaktinformasjon fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i [personvernforordningen artikkel 6, 1f](https://lovdata.no/lov/2018-06-15-38/gdpr/a6).
 
-## Hva gir oss rett til å behandle personopplysninger om deg? 
+## Hva gir oss rett til å behandle personopplysninger om deg?
 
-Vi behandler personopplysninger basert på samtykke fra den enkelte, hjemlet i [personvernforordningen artikkel 6, 1a](https://lovdata.no/lov/2018-06-15-38/gdpr/a6). På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket. 
+Vi behandler personopplysninger basert på samtykke fra den enkelte, hjemlet i [personvernforordningen artikkel 6, 1a](https://lovdata.no/lov/2018-06-15-38/gdpr/a6). På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket.
 
 ## Dine rettigheter
 
-Så lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet [www.datatilsynet.no](http://www.datatilsynet.no). NIFU og UiO er felles forpliktet gjennom [personvernforordningen artikkel 26](https://lovdata.no/lov/2018-06-15-38/gdpr/a26) til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.
+Så lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet [www.datatilsynet.no](http://www.datatilsynet.no). NIFU og UiO er felles forpliktet gjennom [personvernforordningen artikkel 26](https://lovdata.no/lov/2018-06-15-38/gdpr/a26) til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.
 
-## Spørsmål  
+## Spørsmål
 
 Hvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU eller UiO:
 
@@ -36,7 +36,7 @@ Hvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU el
 | [claes.lampi\@nifu.no](mailto:claes.lampi@nifu.no) | [personvernombud\@uio.no](mailto:personvernombud@uio.no) |
 +----------------------------------------------------+----------------------------------------------------------+
 
-Hvis du har spørsmål knyttet til Sikts vurdering av prosjektet, kan du ta kontakt på e-post: [personverntjenester\@sikt.no](mailto:personverntjenester@sikt.no), eller på telefon: 73 98 40 40. 
+Hvis du har spørsmål knyttet til Sikts vurdering av prosjektet, kan du ta kontakt på e-post: [personverntjenester\@sikt.no](mailto:personverntjenester@sikt.no), eller på telefon: 73 98 40 40.
 
 ## Behandlingsansvarlige institusjoner
 

@@ -1,5 +1,6 @@
 project:
   type: website
+  execute-dir: project
 
 website:
   title: "HeaLS: Folkehelse og livsmestring i skolen"
@@ -7,8 +8,8 @@ website:
   repo-subdir: "_site"
   search: true
   draft-mode: unlinked
-  comments: 
-    hypothesis: true
+  page-navigation: true
+  reader-mode: true
   navbar:
     left:
       - href: "0_nyheter/index.qmd"
@@ -22,11 +23,57 @@ website:
   sidebar: 
     contents: auto
   site-url: "heals.nifu.no"
-  
-csl: style.csl
+fig-dpi: 800
+crossref:
+ chapters: true
+ fig-title: '**Figur**'
+ tbl-title: '**Tabell**'
+ lof-title: 'Figuroversikt'
+ lot-title: 'Tabelloversikt'
+ title-delim: '**.**'
+ fig-prefix: Figur
+ tbl-prefix: Tabell
+ ref-hyperlink: true
+ labels: arabic
+# custom:
+#  - kind: float
+#    reference-prefix: Figur
+#    key: fig
+#  - kind: float
+#    reference-prefix: Tabell
+#    key: tbl
+fig-cap-location: bottom
+tbl-cap-location: top
+csl: 3_for_forskere/style.csl
+
+lang: "nb"
+license: "CC BY 4.0"
+format:
+  typst: default
+  html:
+    mainfont: "Calibri"
+    fontsize: "10.5"
+    linestretch: 1.6
+    theme:
+     - yeti
+     # - "styles.scss"
+    css: "styles.css"
+    toc: true
+    comments:
+      hypothesis: true
+    include-after-body:
+      text: |
+        <script>
+          document.addEventListener("DOMContentLoaded", () => {
+            document.querySelectorAll("figcaption").forEach(e => {e.innerHTML = e.innerHTML.replace(/^(Figur&nbsp;\d+)/, "<strong>$1</strong>")})
+          });
+        </script>
+
+
 execute:
   echo: false
   warning: false
   message: false
   cache: true
-  freeze: true
+  freeze: auto
+

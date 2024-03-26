@@ -1,54 +1,45 @@
 [
   {
-    "objectID": "relaterte_prosjekter.html",
-    "href": "relaterte_prosjekter.html",
-    "title": "Relaterte prosjekter og saker",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HeaLS-prosjektet",
     "section": "",
-    "text": "https://www.forskning.no/cse?query=unge+mental+helse+psykiske+skole",
-    "crumbs": [
-      "Nyheter",
-      "Relaterte prosjekter og saker"
-    ]
+    "text": "Folkehelse og livsmestring som tverrfaglig tema i skolen skal gi elevene kompetanse som fremmer god psykisk og fysisk helse, og som gir muligheter til å ta ansvarlige livsvalg. (LK20)"
   },
   {
-    "objectID": "relaterte_prosjekter.html#forskningsnytt-fra-andre-prosjekter",
-    "href": "relaterte_prosjekter.html#forskningsnytt-fra-andre-prosjekter",
-    "title": "Relaterte prosjekter og saker",
-    "section": "",
-    "text": "https://www.forskning.no/cse?query=unge+mental+helse+psykiske+skole",
-    "crumbs": [
-      "Nyheter",
-      "Relaterte prosjekter og saker"
-    ]
+    "objectID": "index.html#bakgrunn",
+    "href": "index.html#bakgrunn",
+    "title": "HeaLS-prosjektet",
+    "section": "Bakgrunn",
+    "text": "Bakgrunn\n\nNy læreplan LK20 (“fagfornyelsen”) ga eksplisitt oppføring av Folkehelse og livsmestring, med store målsettinger\nMen lite detaljer om konkrete kompetansemål og hvordan det undervises.\nOpp til skolene og lærerne hvordan dette skal omsettes til praksis.\nStore variasjoner mellom skoler i elevmassens behov, lokale muligheter/trusler og lærerbakgrunner."
   },
   {
-    "objectID": "relaterte_prosjekter.html#andre-forskningsprosjekter",
-    "href": "relaterte_prosjekter.html#andre-forskningsprosjekter",
-    "title": "Relaterte prosjekter og saker",
-    "section": "Andre forskningsprosjekter",
-    "text": "Andre forskningsprosjekter\n\nEffekt av “Folkehelse og livsmestring” i skolen: https://app.cristin.no/projects/show.jsf?id=2518123",
-    "crumbs": [
-      "Nyheter",
-      "Relaterte prosjekter og saker"
-    ]
+    "objectID": "index.html#denne-forventede-variasjonen-er-utrolig-nyttig-for-å-studere",
+    "href": "index.html#denne-forventede-variasjonen-er-utrolig-nyttig-for-å-studere",
+    "title": "HeaLS-prosjektet",
+    "section": "Denne forventede variasjonen er utrolig nyttig for å studere",
+    "text": "Denne forventede variasjonen er utrolig nyttig for å studere\n\nHvordan foregår opplæringen i folkehelse og livsmestring?\nKan variasjoner i hvordan elevene lærer om folkehelse og livsmestring på skolen påvirke skolemiljøet og elevenes mentale helse, skoleprestasjoner og frafall?"
   },
   {
-    "objectID": "nyheter/2024-03-26_Up_and_running/index.html",
-    "href": "nyheter/2024-03-26_Up_and_running/index.html",
-    "title": "Prosjektet er i gang",
+    "objectID": "index.html#intensjonene-er",
+    "href": "index.html#intensjonene-er",
+    "title": "HeaLS-prosjektet",
+    "section": "Intensjonene er",
+    "text": "Intensjonene er\n\nKortsiktig: Å forstå kompleksiteten i, og forbedre, implementeringene blant lærere, skoler og (fylkes)kommuner\nLangsiktig: Å forbedre skolemiljø, og elevenes mentale helse og skoleprestasjoner\n\n\nAlle elevar har rett til eit trygt og godt skolemiljø som fremjar helse, trivsel og læring (Oppl.lov. § 9A-2)"
+  },
+  {
+    "objectID": "3_for_forskere/index.html",
+    "href": "3_for_forskere/index.html",
+    "title": "For forskere og spesielt interesserte",
     "section": "",
-    "text": "heals.nifu.no er nå på plass!\n\n\n\nSIKT har vurdert infoskrivene\nRekruttering begynner like etter påske\nSpørreskjemaene er under utvikling\n\nVi har tatt utgangspunkt i teoretisk rammeverk for implementeringer, samt læreplanens faktiske omtaler av Folkehelse og livsmestring.\nAlle disse er blitt prioritert etter viktighet.\nSamtidig har vi tatt et nedenfra-opp perspektiv basert på erfaringer fra tidligere studier i skole-Norge.\n\nNytt prosjektmedlem Christine snart på plass.",
-    "crumbs": [
-      "Nyheter",
-      "Prosjektet er i gang"
-    ]
+    "text": "GjenbrukCC BY 4.0"
   },
   {
     "objectID": "3_for_forskere/07_publikasjoner.html",
     "href": "3_for_forskere/07_publikasjoner.html",
     "title": "Publikasjoner",
     "section": "",
-    "text": "Arbeider i prosjektet",
+    "text": "Arbeider i prosjektet\n\n\n\n\n\n\n\nGjenbrukCC BY 4.0",
     "crumbs": [
       "Nyheter",
       "For forskere og spesielt interesserte",
@@ -58,109 +49,109 @@
   {
     "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html",
     "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html",
-    "title": "Personvern",
+    "title": "Utdypende om personvern",
     "section": "",
     "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics. Data vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data. Det vil opprettes en kodeliste som brukes som koblingsnøkkel. NIFU sletter koblingen innen 30.09.2038.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata, vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreskjemaene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i prosjektet har tilgang, da kun avidentifiserte data.",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Personvern"
+      "Utdypende om personvern"
     ]
   },
   {
     "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#utdypende-om-personvern-hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
     "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#utdypende-om-personvern-hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
-    "title": "Personvern",
+    "title": "Utdypende om personvern",
     "section": "",
     "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics. Data vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data. Det vil opprettes en kodeliste som brukes som koblingsnøkkel. NIFU sletter koblingen innen 30.09.2038.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata, vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreskjemaene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i prosjektet har tilgang, da kun avidentifiserte data.",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Personvern"
+      "Utdypende om personvern"
     ]
   },
   {
     "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
     "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
-    "title": "Personvern",
+    "title": "Utdypende om personvern",
     "section": "Hvorfor får du/dere spørsmål om å delta?",
     "text": "Hvorfor får du/dere spørsmål om å delta?\nDere får denne forespørselen fordi vi kontakter skoler i hele Norge. Det er behov for ekstra mange skoler i denne studien for å få nok data til å oppdage variasjon. Vi har innhentet kontaktinformasjon fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i personvernforordningen artikkel 6, 1f.",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Personvern"
+      "Utdypende om personvern"
     ]
   },
   {
     "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
     "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
-    "title": "Personvern",
-    "section": "Hva gir oss rett til å behandle personopplysninger om deg? ",
-    "text": "Hva gir oss rett til å behandle personopplysninger om deg? \nVi behandler personopplysninger basert på samtykke fra den enkelte, hjemlet i personvernforordningen artikkel 6, 1a. På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket.",
+    "title": "Utdypende om personvern",
+    "section": "Hva gir oss rett til å behandle personopplysninger om deg?",
+    "text": "Hva gir oss rett til å behandle personopplysninger om deg?\nVi behandler personopplysninger basert på samtykke fra den enkelte, hjemlet i personvernforordningen artikkel 6, 1a. På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket.",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Personvern"
+      "Utdypende om personvern"
     ]
   },
   {
     "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#dine-rettigheter",
     "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#dine-rettigheter",
-    "title": "Personvern",
+    "title": "Utdypende om personvern",
     "section": "Dine rettigheter",
-    "text": "Dine rettigheter\nSå lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet www.datatilsynet.no. NIFU og UiO er felles forpliktet gjennom personvernforordningen artikkel 26 til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.",
+    "text": "Dine rettigheter\nSå lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet www.datatilsynet.no. NIFU og UiO er felles forpliktet gjennom personvernforordningen artikkel 26 til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Personvern"
+      "Utdypende om personvern"
     ]
   },
   {
     "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#spørsmål",
     "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#spørsmål",
-    "title": "Personvern",
-    "section": "Spørsmål  ",
-    "text": "Spørsmål  \nHvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU eller UiO:\n\n\n\nProsjektets epost\nheals@nifu.no\nEgil Nygaard, prosjektleder\negilny@uio.no\n\n\nPersonvernombud NIFU\nclaes.lampi@nifu.no\nPersonvernombud UiO\npersonvernombud@uio.no\n\n\n\nHvis du har spørsmål knyttet til Sikts vurdering av prosjektet, kan du ta kontakt på e-post: personverntjenester@sikt.no, eller på telefon: 73 98 40 40.",
+    "title": "Utdypende om personvern",
+    "section": "Spørsmål",
+    "text": "Spørsmål\nHvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU eller UiO:\n\n\n\nProsjektets epost\nheals@nifu.no\nEgil Nygaard, prosjektleder\negilny@uio.no\n\n\nPersonvernombud NIFU\nclaes.lampi@nifu.no\nPersonvernombud UiO\npersonvernombud@uio.no\n\n\n\nHvis du har spørsmål knyttet til Sikts vurdering av prosjektet, kan du ta kontakt på e-post: personverntjenester@sikt.no, eller på telefon: 73 98 40 40.",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Personvern"
+      "Utdypende om personvern"
     ]
   },
   {
     "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
     "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
-    "title": "Personvern",
+    "title": "Utdypende om personvern",
     "section": "Behandlingsansvarlige institusjoner",
     "text": "Behandlingsansvarlige institusjoner\n\n\n\n\n\n\n\nUniversitetet i Oslo\nProblemveien 11\n0313 Oslo\nNordisk institutt for studier av innovasjon, forskning og utdanning (NIFU)\nPostboks 2815 Tøyen\n0608 Oslo",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Personvern"
+      "Utdypende om personvern"
     ]
   },
   {
     "objectID": "2_for_kommuner/01_kommuner_invitasjon.html",
     "href": "2_for_kommuner/01_kommuner_invitasjon.html",
-    "title": "Invitasjon",
+    "title": "Om prosjektet",
     "section": "",
     "text": "Innføringen av folkehelse og livsmestring som tverrfaglig tema i skolen skal bidra til å løse samfunnsproblemer rundt helse, livskvalitet, skoleprestasjoner og frafall. Her trenger vi mer kunnskap, både i Norge og internasjonalt:\nKommunens, skolenes og lærernes egne erfaringer er avgjørende for å forstå hvordan dette fungerer i praksis. Vi håper derfor at skoleeiere vil delta på en nasjonal undersøkelse. Forskningsprosjektet heter HeaLS: Health and Life Skills. Prosjektet ledes av UiO, og gjennomføres i samarbeid med NIFU.\nFor kommunen innebærer det at én representant for skoleeier svarer på et spørreskjema.\nVi vil også kontakte alle grunnskolene i kommunen direkte med en invitasjon til å delta. For skolene innebærer det en spørreundersøkelse til et knippe lærere, og til én representant for skoleledelsen per skole.\nSpørreundersøkelsene sendes ut til skoleeier, skoleleder og lærere rundt 15. oktober 2024. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.\nDu kan også lese mer om hvordan vi håndterer personvern i informasjonsskrivet.",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Invitasjon"
+      "Om prosjektet"
     ]
   },
   {
     "objectID": "2_for_kommuner/01_kommuner_invitasjon.html#hva-får-skolene-og-kommunen-igjen-for-å-delta",
     "href": "2_for_kommuner/01_kommuner_invitasjon.html#hva-får-skolene-og-kommunen-igjen-for-å-delta",
-    "title": "Invitasjon",
+    "title": "Om prosjektet",
     "section": "Hva får skolene og kommunen igjen for å delta?",
     "text": "Hva får skolene og kommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres våren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres våren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon. Tiltaket gjøres tilgjengelig digitalt våren 2025.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til kommunen av anonymitetshensyn.\nKommuner vil få tilbakemelding på hvordan skolene i kommunen har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og kommuner, samt refleksjonsopplegget, tilgjengeliggjøres på passordbeskyttede nettsider våren 2025.\n\nJo flere skoler som vi vet deltar, før sommeren begynner, dess færre lærere per skole trenger vi å invitere til spørreundersøkelsene.",
     "crumbs": [
       "Nyheter",
       "For kommuner og fylkeskommuner",
-      "Invitasjon"
+      "Om prosjektet"
     ]
   },
   {
@@ -252,7 +243,7 @@
     "href": "1_for_skoler/01_skoler_invitasjon.html",
     "title": "Om prosjektet",
     "section": "",
-    "text": "Innføringen av folkehelse og livsmestring som tverrfaglig tema i skolen skal bidra til å løse samfunnsproblemer rundt helse, livskvalitet, skoleprestasjoner og frafall. Her trenger vi mer kunnskap, både i Norge og internasjonalt:\n\nHvordan foregår opplæringen i folkehelse og livsmestring?\nKan variasjoner i hvordan elevene lærer om folkehelse og livsmestring på skolen påvirke skolemiljøet og elevenes mentale helse, skoleprestasjoner og frafall?\n\nSkolenes egne erfaringer er avgjørende for å forstå hvordan dette fungerer i praksis.\nVi håper derfor at norske grunnskoler og videregående skoler vil delta i en nasjonal undersøkelse. Forskningsprosjektet heter HeaLS: Health and Life Skills. Prosjektet ledes av UiO, og gjennomføres i samarbeid med NIFU.\nDeltakelse innebærer en spørreundersøkelse til et knippe lærere, og en representant for skoleledelsen på hver skole. Spørreundersøkelsen sendes ut til skoleleder og lærere rundt 15. oktober 2024. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.\nDu kan også lese mer om hvordan vi håndterer personvern.\n\nHva får skolene og kommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres våren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres våren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon. Tiltaket gjøres tilgjengelig digitalt våren 2025.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til kommunen av anonymitetshensyn.\nKommuner vil få tilbakemelding på hvordan skolene i kommunen har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og kommuner, samt refleksjonsopplegget, tilgjengeliggjøres på passordbeskyttede nettsider våren 2025.\n\nJo flere skoler som vi vet deltar, før sommeren begynner, dess færre lærere per skole trenger vi å invitere til spørreundersøkelsene.",
+    "text": "Innføringen av folkehelse og livsmestring som tverrfaglig tema i skolen skal bidra til å løse samfunnsproblemer rundt helse, livskvalitet, skoleprestasjoner og frafall. Her trenger vi mer kunnskap, både i Norge og internasjonalt:\n\nHvordan foregår opplæringen i folkehelse og livsmestring?\nKan variasjoner i hvordan elevene lærer om folkehelse og livsmestring på skolen påvirke skolemiljøet og elevenes mentale helse, skoleprestasjoner og frafall?\n\nSkolenes egne erfaringer er avgjørende for å forstå hvordan dette fungerer i praksis.\nVi håper derfor at norske grunnskoler og videregående skoler vil delta i en nasjonal undersøkelse. Forskningsprosjektet heter HeaLS: Health and Life Skills. Prosjektet ledes av UiO, og gjennomføres i samarbeid med NIFU.\nDeltakelse innebærer en spørreundersøkelse til et knippe lærere, og en representant for skoleledelsen på hver skole. Spørreundersøkelsen sendes ut til skoleleder og lærere rundt 15. oktober 2024. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.\nDu kan også lese mer om hvordan vi håndterer personvern.\n\nHva får skolene og kommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres våren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres våren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon. Tiltaket gjøres tilgjengelig digitalt våren 2025.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til kommunen av anonymitetshensyn.\nKommuner vil få tilbakemelding på hvordan skolene i kommunen har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og kommuner, samt refleksjonsopplegget, tilgjengeliggjøres på passordbeskyttede nettsider våren 2025.\n\nJo flere skoler som vi vet deltar, før sommeren begynner, dess færre lærere per skole trenger vi å invitere til spørreundersøkelsene.\n\n\n\n\nGjenbrukCC BY 4.0",
     "crumbs": [
       "Nyheter",
       "For skoler",
@@ -260,16 +251,44 @@
     ]
   },
   {
+    "objectID": "0_nyheter/2024-03-26_Up_and_running/index.html",
+    "href": "0_nyheter/2024-03-26_Up_and_running/index.html",
+    "title": "Prosjektet er i gang",
+    "section": "",
+    "text": "heals.nifu.no er nå på plass!\n\n\n\nSIKT har vurdert infoskrivene\nRekruttering begynner like etter påske\nSpørreskjemaene er under utvikling\n\nVi har tatt utgangspunkt i teoretisk rammeverk for implementeringer, samt læreplanens faktiske omtaler av Folkehelse og livsmestring.\nAlle disse er blitt prioritert etter viktighet.\nSamtidig har vi tatt et nedenfra-opp perspektiv basert på erfaringer fra tidligere studier i skole-Norge.\n\nNytt prosjektmedlem Christine snart på plass.\n\n\n\n\nGjenbrukCC BY 4.0",
+    "crumbs": [
+      "Nyheter",
+      "Prosjektet er i gang"
+    ]
+  },
+  {
+    "objectID": "0_nyheter/index.html",
+    "href": "0_nyheter/index.html",
+    "title": "Nyheter",
+    "section": "",
+    "text": "Sortér etter\n       Standard\n         \n          Overskrift\n        \n         \n          Dato - Eldste\n        \n         \n          Dato - Nyeste\n        \n         \n          Forfatter\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProsjektet er i gang\n\n\n\n\n\n\n\n\n\n\n\n26. mars 2024\n\n\n\n\n\n\nIngen resultater\n\nGjenbrukCC BY 4.0",
+    "crumbs": [
+      "Nyheter"
+    ]
+  },
+  {
     "objectID": "1_for_skoler/02_skoler_rekruttering_personvern_grunnleggende.html",
     "href": "1_for_skoler/02_skoler_rekruttering_personvern_grunnleggende.html",
     "title": "Informasjonsskriv",
     "section": "",
-    "text": "Formålet med Health and Life Skills (HeaLS)\nVi ønsker å ha med skoleledere og utvalgte lærere i en nasjonal skoleforskningsstudie om det tverrfaglige temaet Folkehelse og livsmestring. Målet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme Folkehelse og livsmestring gjennom undervisningen.\n\n\nHvem er ansvarlig for forskningsprosjektet?\nProsjektet ledes av Psykologisk institutt ved UiO, mens NIFU har hovedansvar for datainnsamlingen. UiO og NIFU har felles databehandleransvar, men kun NIFU håndterer personidentifiserende opplysninger. I tillegg deltar flere andre organisasjoner. Prosjektet er enestående i sitt slag, og prosjektet vekker internasjonal oppmerksomhet. Derfor ble det finansiert av det europeiske forskningsrådet (ERC).\n\n\nHva innebærer det for skoler å delta?\nDeltakelse innebærer for skoleleder å besvare en spørreundersøkelse (15-20 min) høsten 2024. Lærerne vil samtidig bli invitert til å delta i enten\n\nen spørreundersøkelse (15 min), eller\nførst et svært kort skjema (3 min) og deretter en loggaktivitet før og etter 4 undervisningsøkter. Loggene vil ta omtrent 2 minutter hver gang.\n\nLærerne trekkes ut til en av disse to fra en liste over alle lærerne som vi mottar fra dere. Antallet som faktisk blir trukket ut vil avhenge av hvor mange skoler som deltar – dess flere skoler som deltar, dess færre lærere per skole blir inviterte. Likevel vil vi aldri invitere flere enn 20 lærere ved en skole som har flere lærere enn dette, og vi inviterer kun så mange vi trenger. Undersøkelsene er nettbaserte og fungerer godt på mobiltelefon.\nDet er også flere fordeler ved å delta.\n\n\nHva spør vi om i spørreundersøkelsene?\nSkoleledere og halvparten av lærerne vil få ulike spørsmål rundt hvordan det tverrfaglige arbeidet omkring Folkehelse og livsmestring pågår ved skolen, samt om samarbeid, praksis, holdninger og mestringstro knyttet til temaet. De som får logg vil få spørsmål om hva de planlegger, og hva de faktisk har gjort, tilknyttet Folkehelse og livsmestring i fire økter.\nI tillegg får noen skoleledere og lærere mulighet til å svare på hvordan de opplevde undersøkelsen. Dette for å sikre god kvalitet i alle ledd. Svar på disse spørsmålene benyttes ikke i videre forskning etter kvalitetssikringsperioden er over.\n\n\nHvilke andre typer opplysninger blir samlet inn?\nI tillegg til dine svar på spørsmålene samler vi inn:\nKontaktinformasjon: Deltakerskoler sender oss våren 2025 liste med lærernes navn og e-postadresse. Listen brukes av forskerne for å trekke ut hvem som skal svare på undersøkelsen på den enkelte skole, samt invitere lærerne direkte.\nBakgrunnsinformasjon: Lærerne blir spurt om demografisk informasjon som kjønn, erfaring og alder.\nProsessdata: For at forskerne bedre skal forstå hvordan spørsmålene fungerer og hvordan undersøkelsen oppleves, gis det mulighet for å uttrykke seg om dette. Svar på disse spørsmålene benyttes ikke i videre forskning etter at kvalitetssikringsperioden er over. Det samles også inn teknisk prosessdata som eksempelvis type nettleser brukt, IP-adresse, og tid brukt på enkeltspørsmål og undersøkelsen totalt, som fjernes like etter undersøkelsen lukkes.\n\n\nDet er frivillig å delta\nDet er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som helst trekke samtykket tilbake uten å oppgi noen grunn. Alle dine personopplysninger vil da bli slettet. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta eller senere velger å trekke deg. Det er lov å hoppe over spørsmål eller avbryte besvarelsen underveis.\n\n\nKort om personvern\nVi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. Du kan lese mer utdypende om personvern her.\nMed vennlig hilsen\n\n\n\nEgil Nygaard\nCay Gjerustad\n\n\n\n\nProsjektleder, UiO\nForskningsleder, NIFU",
+    "text": "Formålet med Health and Life Skills (HeaLS)\nVi ønsker å ha med skoleledere og utvalgte lærere i en nasjonal skoleforskningsstudie om det tverrfaglige temaet Folkehelse og livsmestring. Målet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme Folkehelse og livsmestring gjennom undervisningen.\n\n\nHvem er ansvarlig for forskningsprosjektet?\nProsjektet ledes av Psykologisk institutt ved UiO, mens NIFU har hovedansvar for datainnsamlingen. UiO og NIFU har felles databehandleransvar, men kun NIFU håndterer personidentifiserende opplysninger. I tillegg deltar flere andre organisasjoner. Prosjektet er enestående i sitt slag, og prosjektet vekker internasjonal oppmerksomhet. Derfor ble det finansiert av det europeiske forskningsrådet (ERC).\n\n\nHva innebærer det for skoler å delta?\nDeltakelse innebærer for skoleleder å besvare en spørreundersøkelse (15-20 min) høsten 2024. Lærerne vil samtidig bli invitert til å delta i enten\n\nen spørreundersøkelse (15 min), eller\nførst et svært kort skjema (3 min) og deretter en loggaktivitet før og etter 4 undervisningsøkter. Loggene vil ta omtrent 2 minutter hver gang.\n\nLærerne trekkes ut til en av disse to fra en liste over alle lærerne som vi mottar fra dere. Antallet som faktisk blir trukket ut vil avhenge av hvor mange skoler som deltar – dess flere skoler som deltar, dess færre lærere per skole blir inviterte. Likevel vil vi aldri invitere flere enn 20 lærere ved en skole som har flere lærere enn dette, og vi inviterer kun så mange vi trenger. Undersøkelsene er nettbaserte og fungerer godt på mobiltelefon.\nDet er også flere fordeler ved å delta.\n\n\nHva spør vi om i spørreundersøkelsene?\nSkoleledere og halvparten av lærerne vil få ulike spørsmål rundt hvordan det tverrfaglige arbeidet omkring Folkehelse og livsmestring pågår ved skolen, samt om samarbeid, praksis, holdninger og mestringstro knyttet til temaet. De som får logg vil få spørsmål om hva de planlegger, og hva de faktisk har gjort, tilknyttet Folkehelse og livsmestring i fire økter.\nI tillegg får noen skoleledere og lærere mulighet til å svare på hvordan de opplevde undersøkelsen. Dette for å sikre god kvalitet i alle ledd. Svar på disse spørsmålene benyttes ikke i videre forskning etter kvalitetssikringsperioden er over.\n\n\nHvilke andre typer opplysninger blir samlet inn?\nI tillegg til dine svar på spørsmålene samler vi inn:\nKontaktinformasjon: Deltakerskoler sender oss våren 2025 liste med lærernes navn og e-postadresse. Listen brukes av forskerne for å trekke ut hvem som skal svare på undersøkelsen på den enkelte skole, samt invitere lærerne direkte.\nBakgrunnsinformasjon: Lærerne blir spurt om demografisk informasjon som kjønn, erfaring og alder.\nProsessdata: For at forskerne bedre skal forstå hvordan spørsmålene fungerer og hvordan undersøkelsen oppleves, gis det mulighet for å uttrykke seg om dette. Svar på disse spørsmålene benyttes ikke i videre forskning etter at kvalitetssikringsperioden er over. Det samles også inn teknisk prosessdata som eksempelvis type nettleser brukt, IP-adresse, og tid brukt på enkeltspørsmål og undersøkelsen totalt, som fjernes like etter undersøkelsen lukkes.\n\n\nDet er frivillig å delta\nDet er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som helst trekke samtykket tilbake uten å oppgi noen grunn. Alle dine personopplysninger vil da bli slettet. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta eller senere velger å trekke deg. Det er lov å hoppe over spørsmål eller avbryte besvarelsen underveis.\n\n\nKort om personvern\nVi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. Du kan lese mer utdypende om personvern her.\nMed vennlig hilsen\n\n\n\nEgil Nygaard\nCay Gjerustad\n\n\n\n\nProsjektleder, UiO\nForskningsleder, NIFU\n\n\n\n\n\n\n\nGjenbrukCC BY 4.0",
     "crumbs": [
       "Nyheter",
       "For skoler",
       "Informasjonsskriv"
     ]
+  },
+  {
+    "objectID": "1_for_skoler/index.html",
+    "href": "1_for_skoler/index.html",
+    "title": "For skoler",
+    "section": "",
+    "text": "GjenbrukCC BY 4.0"
   },
   {
     "objectID": "2_for_kommuner/02_kommuner_rekruttering_personvern_grunnleggende.html",
@@ -356,6 +375,13 @@
     ]
   },
   {
+    "objectID": "2_for_kommuner/index.html",
+    "href": "2_for_kommuner/index.html",
+    "title": "For kommuner og fylkeskommuner",
+    "section": "",
+    "text": "GjenbrukCC BY 4.0"
+  },
+  {
     "objectID": "3_for_forskere/08_prosjektgruppen.html#prosjektmedlemmer",
     "href": "3_for_forskere/08_prosjektgruppen.html#prosjektmedlemmer",
     "title": "Prosjektgruppen",
@@ -380,41 +406,36 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HeaLS-prosjektet",
+    "objectID": "4_relaterte_prosjekter.html",
+    "href": "4_relaterte_prosjekter.html",
+    "title": "Relaterte prosjekter og saker",
     "section": "",
-    "text": "Folkehelse og livsmestring som tverrfaglig tema i skolen skal gi elevene kompetanse som fremmer god psykisk og fysisk helse, og som gir muligheter til å ta ansvarlige livsvalg. (LK20)"
-  },
-  {
-    "objectID": "index.html#bakgrunn-for-health-and-life-skills-prosjektet",
-    "href": "index.html#bakgrunn-for-health-and-life-skills-prosjektet",
-    "title": "HeaLS-prosjektet",
-    "section": "Bakgrunn for Health and Life Skills-prosjektet",
-    "text": "Bakgrunn for Health and Life Skills-prosjektet\n\nNy læreplan LK20 (“fagfornyelsen”) ga eksplisitt oppføring av Folkehelse og livsmestring, med store målsettinger\nMen lite detaljer om konkrete kompetansemål og hvordan det undervises.\nOpp til skolene og lærerne hvordan dette skal omsettes til praksis.\nStore variasjoner mellom skoler i elevmassens behov, lokale muligheter/trusler og lærerbakgrunner."
-  },
-  {
-    "objectID": "index.html#denne-forventede-variasjonen-er-utrolig-nyttig-for-å-studere",
-    "href": "index.html#denne-forventede-variasjonen-er-utrolig-nyttig-for-å-studere",
-    "title": "HeaLS-prosjektet",
-    "section": "Denne forventede variasjonen er utrolig nyttig for å studere",
-    "text": "Denne forventede variasjonen er utrolig nyttig for å studere\n\nHvordan foregår opplæringen i folkehelse og livsmestring?\nKan variasjoner i hvordan elevene lærer om folkehelse og livsmestring på skolen påvirke skolemiljøet og elevenes mentale helse, skoleprestasjoner og frafall?"
-  },
-  {
-    "objectID": "index.html#intensjonene-er",
-    "href": "index.html#intensjonene-er",
-    "title": "HeaLS-prosjektet",
-    "section": "Intensjonene er",
-    "text": "Intensjonene er\n\nKortsiktig: Å forstå kompleksiteten i, og forbedre, implementeringene blant lærere, skoler og (fylkes)kommuner\nLangsiktig: Å forbedre skolemiljø, og elevenes mentale helse og skoleprestasjoner\n\n\nAlle elevar har rett til eit trygt og godt skolemiljø som fremjar helse, trivsel og læring (Oppl.lov. § 9A-2)"
-  },
-  {
-    "objectID": "nyheter/index.html",
-    "href": "nyheter/index.html",
-    "title": "Nyheter",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProsjektet er i gang\n\n\n\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\n\n\n\n\nNo matching items",
+    "text": "https://www.forskning.no/cse?query=unge+mental+helse+psykiske+skole",
     "crumbs": [
-      "Nyheter"
+      "Nyheter",
+      "Relaterte prosjekter og saker"
+    ]
+  },
+  {
+    "objectID": "4_relaterte_prosjekter.html#forskningsnytt-fra-andre-prosjekter",
+    "href": "4_relaterte_prosjekter.html#forskningsnytt-fra-andre-prosjekter",
+    "title": "Relaterte prosjekter og saker",
+    "section": "",
+    "text": "https://www.forskning.no/cse?query=unge+mental+helse+psykiske+skole",
+    "crumbs": [
+      "Nyheter",
+      "Relaterte prosjekter og saker"
+    ]
+  },
+  {
+    "objectID": "4_relaterte_prosjekter.html#andre-forskningsprosjekter",
+    "href": "4_relaterte_prosjekter.html#andre-forskningsprosjekter",
+    "title": "Relaterte prosjekter og saker",
+    "section": "Andre forskningsprosjekter",
+    "text": "Andre forskningsprosjekter\n\nEffekt av “Folkehelse og livsmestring” i skolen: https://app.cristin.no/projects/show.jsf?id=2518123",
+    "crumbs": [
+      "Nyheter",
+      "Relaterte prosjekter og saker"
     ]
   }
 ]

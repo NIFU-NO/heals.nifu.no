@@ -5,15 +5,15 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>heals.nifu.no</title>
-<link>heals.nifu.no/nyheter/</link>
-<atom:link href="heals.nifu.no/nyheter/index.xml" rel="self" type="application/rss+xml"/>
+<title>HeaLS: Folkehelse og livsmestring i skolen</title>
+<link>heals.nifu.no/0_nyheter/</link>
+<atom:link href="heals.nifu.no/0_nyheter/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.25</generator>
 <lastBuildDate>Mon, 25 Mar 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Prosjektet er i gang</title>
-  <link>heals.nifu.no/nyheter/2024-03-26_Up_and_running/</link>
+  <link>heals.nifu.no/0_nyheter/2024-03-26_Up_and_running/</link>
   <description><![CDATA[ 
 
 
@@ -37,8 +37,8 @@
 
 
 
- ]]></description>
-  <guid>heals.nifu.no/nyheter/2024-03-26_Up_and_running/</guid>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Gjenbruk</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.nb">CC BY 4.0</a></div></div></section></div> ]]></description>
+  <guid>heals.nifu.no/0_nyheter/2024-03-26_Up_and_running/</guid>
   <pubDate>Mon, 25 Mar 2024 23:00:00 GMT</pubDate>
 </item>
 </channel>
