@@ -2,6 +2,21 @@
 title: "HeaLS-prosjektet"
 ---
 
-Beskriv kort hva prosjektet handler om
+> Folkehelse og livsmestring som tverrfaglig tema i skolen skal gi elevene kompetanse som fremmer god psykisk og fysisk helse, og som gir muligheter til å ta ansvarlige livsvalg. (LK20)
 
-Logoer til alle deltakende organisasjoner
+## Bakgrunn
+-   Ny læreplan LK20 ("fagfornyelsen") ga eksplisitt oppføring av __Folkehelse og livsmestring__, med store målsettinger
+-   Men lite detaljer om konkrete kompetansemål og hvordan det undervises.
+-   Opp til skolene og lærerne hvordan dette skal omsettes til praksis.
+-   Store variasjoner mellom skoler i elevmassens behov, lokale muligheter/trusler og lærerbakgrunner.
+
+## Denne forventede variasjonen er utrolig nyttig for å studere 
+-   Hvordan foregår opplæringen i folkehelse og livsmestring?
+-   Kan variasjoner i hvordan elevene lærer om folkehelse og livsmestring på skolen påvirke skolemiljøet og elevenes mentale helse, skoleprestasjoner og frafall?
+
+## Intensjonene er 
+-   Kortsiktig: Å forstå kompleksiteten i, og forbedre, implementeringene blant lærere, skoler og (fylkes)kommuner
+-   Langsiktig: Å forbedre skolemiljø, og elevenes mentale helse og skoleprestasjoner
+
+> Alle elevar har rett til eit trygt og godt skolemiljø som fremjar helse, trivsel og læring (Oppl.lov. § 9A-2)
+

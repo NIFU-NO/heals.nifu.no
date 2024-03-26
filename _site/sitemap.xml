@@ -2,38 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>heals.nifu.no/relaterte_prosjekter.html</loc>
-    <lastmod>2024-03-25T15:40:15.199Z</lastmod>
-  </url>
-  <url>
-    <loc>heals.nifu.no/personvern/01_skoler_rekruttering_personvern_grunnleggende.html</loc>
-    <lastmod>2024-03-26T09:47:26.361Z</lastmod>
-  </url>
-  <url>
-    <loc>heals.nifu.no/om_prosjektet/02_kommuner_invitasjon.html</loc>
-    <lastmod>2024-03-26T09:44:24.239Z</lastmod>
-  </url>
-  <url>
-    <loc>heals.nifu.no/nyheter/index.html</loc>
-    <lastmod>2024-03-26T09:51:02.532Z</lastmod>
-  </url>
-  <url>
-    <loc>heals.nifu.no/index.html</loc>
-    <lastmod>2024-03-26T09:42:46.669Z</lastmod>
+    <lastmod>2024-03-26T12:18:09.179Z</lastmod>
   </url>
   <url>
     <loc>heals.nifu.no/nyheter/2024-03-26_Up_and_running/index.html</loc>
-    <lastmod>2024-03-26T09:56:37.872Z</lastmod>
+    <lastmod>2024-03-26T12:04:25.721Z</lastmod>
   </url>
   <url>
-    <loc>heals.nifu.no/om_prosjektet/01_skoler_invitasjon.html</loc>
-    <lastmod>2024-03-26T09:44:04.061Z</lastmod>
+    <loc>heals.nifu.no/3_for_forskere/07_publikasjoner.html</loc>
+    <lastmod>2024-03-26T10:13:26.493Z</lastmod>
   </url>
   <url>
-    <loc>heals.nifu.no/personvern/02_skoler_rekruttering_personvern_utdypende.html</loc>
-    <lastmod>2024-03-25T16:09:39.753Z</lastmod>
+    <loc>heals.nifu.no/2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html</loc>
+    <lastmod>2024-03-26T13:25:38.723Z</lastmod>
   </url>
   <url>
-    <loc>heals.nifu.no/publikasjoner.html</loc>
-    <lastmod>2024-03-26T09:37:27.785Z</lastmod>
+    <loc>heals.nifu.no/2_for_kommuner/01_kommuner_invitasjon.html</loc>
+    <lastmod>2024-03-26T13:38:05.196Z</lastmod>
+  </url>
+  <url>
+    <loc>heals.nifu.no/1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html</loc>
+    <lastmod>2024-03-26T13:24:40.366Z</lastmod>
+  </url>
+  <url>
+    <loc>heals.nifu.no/1_for_skoler/01_skoler_invitasjon.html</loc>
+    <lastmod>2024-03-26T13:35:03.991Z</lastmod>
+  </url>
+  <url>
+    <loc>heals.nifu.no/1_for_skoler/02_skoler_rekruttering_personvern_grunnleggende.html</loc>
+    <lastmod>2024-03-26T13:37:10.021Z</lastmod>
+  </url>
+  <url>
+    <loc>heals.nifu.no/2_for_kommuner/02_kommuner_rekruttering_personvern_grunnleggende.html</loc>
+    <lastmod>2024-03-26T13:38:41.789Z</lastmod>
+  </url>
+  <url>
+    <loc>heals.nifu.no/3_for_forskere/08_prosjektgruppen.html</loc>
+    <lastmod>2024-03-26T12:01:13.710Z</lastmod>
+  </url>
+  <url>
+    <loc>heals.nifu.no/index.html</loc>
+    <lastmod>2024-03-26T13:39:22.950Z</lastmod>
+  </url>
+  <url>
+    <loc>heals.nifu.no/nyheter/index.html</loc>
+    <lastmod>2024-03-26T10:13:26.408Z</lastmod>
   </url>
 </urlset>
