@@ -12,7 +12,7 @@ Prosjektet ledes av [Psykologisk institutt ved UiO](https://www.sv.uio.no/psi/pe
 
 ## Hva innebærer det for kommunen å delta?
 
-Deltakelse innebærer at en kommunens representant besvarer en spørreundersøkelse (ca. 20 min) høsten 2024. Undersøkelsen inkluderer spørsmål rundt hvordan ev. intrakommunalt og interkommunalt arbeid med det tverrfaglige temaet Folkehelse og livsmestring foregår. Selv om kommunen ikke skulle ha en dedikert strategi eller dedikerte ansvarlige for dette er det ønskelig at dere blir med. Deres svar vil gjøre at vi trenger færre spørsmål til skolene, og dermed blir det mindre belastning på skolene. Undersøkelsene er nettbaserte. Det er også flere [fordeler](01_kommuner_invitasjon.qmd) ved å delta.
+Deltakelse innebærer at en kommunens representant besvarer en spørreundersøkelse (ca. 20 min) høsten 2024. Undersøkelsen inkluderer spørsmål rundt hvordan ev. intrakommunalt og interkommunalt arbeid med det tverrfaglige temaet Folkehelse og livsmestring foregår. Selv om kommunen ikke skulle ha en dedikert strategi eller dedikerte ansvarlige for dette er det ønskelig at dere blir med. Deres svar vil gjøre at vi trenger færre spørsmål til skolene, og dermed blir det mindre belastning på skolene. Undersøkelsene er nettbaserte. Det er også flere [fordeler](../2_for_kommuner/01_kommuner_invitasjon.qmd) ved å delta.
 
 ## Hvilke andre typer opplysninger blir samlet inn?
 
@@ -24,7 +24,7 @@ Det er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som
 
 ## Kort om personvern
 
-Vi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. Du kan lese [mer utdypende om personvern her](03_kommuner_rekruttering_personvern_utdypende.qmd).
+Vi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. Du kan lese [mer utdypende om personvern her](../2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.qmd).
 
 Med vennlig hilsen
 

@@ -4,12 +4,12 @@ title: "Prosjektgruppen"
 
 ## Deltakende institusjoner
 
-|                                                                                                                 |                                                                                                                                         |
-|:-------------------------------------:|:-------------------------------:|
-|  [![Promenta, Psykologisk Institutt, Universitetet i Oslo](_images/UiO.svg)](https://www.sv.uio.no/promenta/)   |       [![Nordisk institutt for studier av innovasjon, forskning og utdanning](_images/NIFU.png){width="96"}](https://www.nifu.no)       |
-|                        [![Folkehelseinstituttet](_images/FHI.svg){width="159"}](https://www.fhi.no/)                         |                  [![Universitetet i Manchester](_images/UoManchester.png){width="159"}](https://www.manchester.ac.uk)                   |
-| [![Lærernes Yrkesforbund](_images/Larernes_Yrkesforbund.png)](https://www.delta.no/yrke/laerernes-yrkesforbund) |               [![Skolelederforbundet](_images/Skolelederforbundet.png){width="203"}](https://www.skolelederforbundet.no/)               |
-|         [![Skolenes landsforbund](_images/Skolenes_landsforbund.png)](https://skoleneslandsforbund.no/)         | [![Nettverk for helsefremmende samfunn (fremsam, tidligere Sunne kommuner)](_images/fremsam.png){width="236"}](https://www.fremsam.no/) |
+|                                                                                                                    |                                                                                                                               |
+|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+|  [![Promenta, Psykologisk Institutt, Universitetet i Oslo](../_images/UiO.svg)](https://www.sv.uio.no/promenta/)   |      [![Nordisk institutt for studier av innovasjon, forskning og utdanning](../_images/NIFU.png)](https://www.nifu.no)       |
+|                        [![Folkehelseinstituttet](../_images/FHI.svg)](https://www.fhi.no/)                         |                  [![Universitetet i Manchester](../_images/UoManchester.png)](https://www.manchester.ac.uk)                   |
+| [![Lærernes Yrkesforbund](../_images/Larernes_Yrkesforbund.png)](https://www.delta.no/yrke/laerernes-yrkesforbund) |               [![Skolelederforbundet](../_images/Skolelederforbundet.png)](https://www.skolelederforbundet.no/)               |
+|         [![Skolenes landsforbund](../_images/Skolenes_landsforbund.png)](https://skoleneslandsforbund.no/)         | [![Nettverk for helsefremmende samfunn (fremsam, tidligere Sunne kommuner)](../_images/fremsam.png)](https://www.fremsam.no/) |
 
 ## Prosjektmedlemmer
 
@@ -17,7 +17,7 @@ Se [oppdatert liste over prosjektmedlemmer](https://www.sv.uio.no/psi/english/re
 
 ## Finansiell støtte fra
 
-|
-|:-----:|:----:|
-|  [![](_images/ERC.png){fig-alt="ERC" fig-align="center" width="800"}](https://erc.europa.eu/homepage) | [![](_images/NFR.svg){fig-alt="NFR" fig-align="center" width="300"}](https://www.forskningsradet.no/) |
-|  [![](_images/Dam.png){fig-align="center" width="185"}](https://dam.no/organisasjoner/radet-for-psykisk-helse/)  | [![](_images/Radet_for_psykisk_helse.png){alt="Rådet for psykisk helse" fig-align="center" }](https://dam.no/organisasjoner/radet-for-psykisk-helse/) |
+|                                                                                                       |                                                                                                                                                         |
+|:-----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      [![](../_images/ERC.png){fig-alt="ERC" fig-align="center"}](https://erc.europa.eu/homepage)      |                              [![](../_images/NFR.svg){fig-alt="NFR" fig-align="center"}](https://www.forskningsradet.no/)                               |
+| [![](../_images/Dam.png){fig-align="center"}](https://dam.no/organisasjoner/radet-for-psykisk-helse/) | [![](../_images/Radet_for_psykisk_helse.png){alt="Rådet for psykisk helse" fig-align="center"}](https://dam.no/organisasjoner/radet-for-psykisk-helse/) |

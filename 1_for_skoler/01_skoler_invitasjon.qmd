@@ -18,9 +18,9 @@ Du kan også lese mer om hvordan vi håndterer [personvern](02_skoler_rekrutteri
 
 # Hva får skolene og kommunen igjen for å delta?
 
--   **Alle** lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres våren 2025 på [heals.nifu.no/nyheter](../nyheter/index.qmd) og per e-post.
+-   **Alle** lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres våren 2025 på [heals.nifu.no/nyheter](../0_nyheter/index.qmd) og per e-post.
 
--   **Skoler**, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres våren 2025 på [heals.nifu.no/nyheter](../nyheter/index.qmd) og per e-post.
+-   **Skoler**, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres våren 2025 på [heals.nifu.no/nyheter](../0_nyheter/index.qmd) og per e-post.
 
 -   **Alle** som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i *folkehelse og livsmestring* fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.
 

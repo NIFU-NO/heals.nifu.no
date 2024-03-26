@@ -1,5 +1,5 @@
 ---
-title: "Invitasjon"
+title: "Om prosjektet"
 ---
 
 Innføringen av *folkehelse og livsmestring* som tverrfaglig tema i skolen skal bidra til å løse samfunnsproblemer rundt helse, livskvalitet, skoleprestasjoner og frafall. Her trenger vi mer kunnskap, både i Norge og internasjonalt:
@@ -16,13 +16,13 @@ Vi vil også kontakte alle grunnskolene i kommunen direkte med en invitasjon til
 
 Spørreundersøkelsene sendes ut til skoleeier, skoleleder og lærere rundt **15. oktober** 2024. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.
 
-Du kan også lese mer om hvordan vi håndterer [personvern i informasjonsskrivet](01_kommuner_rekruttering_personvern_grunnleggende.qmd).
+Du kan også lese mer om hvordan vi håndterer [personvern i informasjonsskrivet](../2_for_kommuner/02_kommuner_rekruttering_personvern_grunnleggende.qmd).
 
 ## Hva får skolene og kommunen igjen for å delta?
 
--   **Alle** lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres våren 2025 på [heals.nifu.no/nyheter](../nyheter/index.qmd) og per e-post.
+-   **Alle** lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres våren 2025 på [heals.nifu.no/nyheter](../0_nyheter/index.qmd) og per e-post.
 
--   **Skoler**, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres våren 2025 på [heals.nifu.no/nyheter](../nyheter/index.qmd) og per e-post.
+-   **Skoler**, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres våren 2025 på [heals.nifu.no/nyheter](../0_nyheter/index.qmd) og per e-post.
 
 -   **Alle** som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i *folkehelse og livsmestring* fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.
 
