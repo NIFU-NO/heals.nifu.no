@@ -1,0 +1,10 @@
+---
+title: "Nyheter"
+listing: 
+  sort-ui: true
+  sort: "date desc"
+  type: default
+  categories: true
+  filter-ui: true
+  feed: true
+---

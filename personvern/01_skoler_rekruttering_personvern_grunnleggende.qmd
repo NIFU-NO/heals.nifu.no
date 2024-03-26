@@ -1,0 +1,52 @@
+---
+title: "For skoler - grunnleggende"
+---
+
+# Formålet med Health and Life Skills (HeaLS)
+
+Vi ønsker å ha med skoleledere og utvalgte lærere i en nasjonal skoleforskningsstudie om det tverrfaglige temaet [Folkehelse og livsmestring](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob). Målet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme *Folkehelse og livsmestring* gjennom undervisningen.
+
+# Hvem er ansvarlig for forskningsprosjektet? 
+
+Prosjektet ledes av [Psykologisk institutt ved UiO](https://www.sv.uio.no/psi/personer/vit/egilny/), mens [NIFU](https://www.nifu.no) har hovedansvar for datainnsamlingen. UiOog NIFU har felles databehandleransvar, men kun NIFU håndterer personidentifiserende opplysninger*.* I tillegg deltar [Skolelederforbundet](https://www.skolelederforbundet.no/), [Skolenes landsforbund](https://skoleneslandsforbund.no/), [Lærernes yrkesforbund](https://www.delta.no/yrke/laerernes-yrkesforbund), [Folkehelseinstituttet (FHI)](https://www.fhi.no/), [NTNU](https://www.ntnu.no), [University of Manchester](https://www.manchester.ac.uk/), og [Sunne kommuner](https://www.fremsam.no/). Prosjektet er enestående i sitt slag, og prosjektet vekker internasjonal oppmerksomhet. Derfor [ble det finansiert av det europeiske forskningsrådet (ERC)](https://www.sv.uio.no/om/aktuelt/aktuelle-saker/2023/erc-consolidator-grant-til-psykologisk-institutt.html). 
+
+# Hva innebærer det for skoler å delta?
+
+Deltakelse innebærer for skoleleder å besvare en spørreundersøkelse (15-20 min) høsten 2024. Lærerne vil samtidig bli invitert til å delta i enten
+
+1.  en spørreundersøkelse (15 min), eller
+2.  først et svært kort skjema (3 min) og deretter en loggaktivitet før og etter 4 undervisningsøkter. Loggene vil ta omtrent 2 minutter hver gang.
+
+Lærerne trekkes ut til en av disse to fra en liste over alle lærerne som vi mottar fra dere. Antallet som faktisk blir trukket ut vil avhenge av hvor mange skoler som deltar – dess flere skoler som deltar, dess færre lærere per skole blir inviterte. Likevel vil vi aldri invitere flere enn 20 lærere ved en skole som har flere lærere enn dette, og vi inviterer kun så mange vi trenger. Undersøkelsene er nettbaserte og fungerer godt på mobiltelefon.
+
+Det er også flere [fordeler](../om_prosjektet/01_skoler_invitasjon.qmd) ved å delta.
+
+# Hva spør vi om i spørreundersøkelsene?
+
+Skoleledere og halvparten av lærerne vil få ulike spørsmål rundt hvordan det tverrfaglige arbeidet omkring *Folkehelse og livsmestring* pågår ved skolen, samt om samarbeid, praksis, holdninger og mestringstro knyttet til temaet. De som får logg vil få spørsmål om hva de planlegger, og hva de faktisk har gjort, tilknyttet *Folkehelse og livsmestring* i fire økter.
+
+I tillegg får noen skoleledere og lærere mulighet til å svare på hvordan de opplevde undersøkelsen. Dette for å sikre god kvalitet i alle ledd. Svar på disse spørsmålene benyttes ikke i videre forskning etter kvalitetssikringsperioden er over.
+
+# Hvilke andre typer opplysninger blir samlet inn?
+
+I tillegg til dine svar på spørsmålene samler vi inn:
+
+*Kontaktinformasjon*: Deltakerskoler sender oss våren 2025 liste med lærernes navn og e-postadresse. Listen brukes av forskerne for å trekke ut hvem som skal svare på undersøkelsen på den enkelte skole, samt invitere lærerne direkte.
+
+*Bakgrunnsinformasjon*: Demografisk informasjon som kjønn, erfaring og alder.
+
+*Prosessdata*: For at forskerne bedre skal forstå hvordan spørsmålene fungerer, samles det inn informasjon fra utfyllingen av spørreskjema. Eksempelvis type nettleser brukt, IP-adresse, tidspunkt for innlogging, tid brukt på enkeltspørsmål og undersøkelsen totalt.
+
+# Det er frivillig å delta
+
+Det er frivillig å delta i prosjektet. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta eller senere velger å trekke deg. Det er lov å hoppe over spørsmål eller avbryte besvarelsen underveis.
+
+# Kort om personvern 
+
+Vi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. Du kan lese mer om personvern på de neste sidene. 
+
+Med vennlig hilsen
+
+| Egil Nygaard       | Cay Gjerustad         |
+|--------------------|-----------------------|
+| Prosjektleder, UiO | Forskningsleder, NIFU |
