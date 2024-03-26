@@ -2,15 +2,23 @@ project:
   type: website
 
 website:
-  title: "heals.nifu.no"
+  title: "HeaLS: Folkehelse og livsmestring i skolen"
+  repo-url: "https://github.com/NIFU-NO/heals.nifu.no"
+  repo-subdir: "_site"
+  search: true
+  draft-mode: unlinked
+  comments: 
+    hypothesis: true
   navbar:
     left:
-      - href: "nyheter/index.qmd"
-        text: "Nyheter"
-      - href: "personvern/index.qmd"
-        text: "Personvern"
-      - href: "om_prosjektet/index.qmd"
-        text: "Om HeaLS"
+      - href: "0_nyheter/index.qmd"
+        id: news
+      - href: "1_for_skoler/index.qmd"
+        id: schools
+      - href: "2_for_kommuner/index.qmd"
+        id: municipalities
+      - href: "3_for_forskere/index.qmd"
+        id: researchers
   sidebar: 
     contents: auto
   site-url: "heals.nifu.no"
