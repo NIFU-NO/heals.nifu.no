@@ -1,49 +1,18 @@
 ---
 title: "Utdypende om personvern"
+format: 
+  typst: default
+  html: default
 ---
 
 ## Utdypende om personvern – hvordan vi oppbevarer og bruker dine opplysninger
 
-I gjennomføring av spørreundersøkelsen vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet [Qualtrics](https://www.qualtrics.com/gdpr/). Data vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data. Det vil opprettes en kodeliste som brukes som koblingsnøkkel. NIFU sletter koblingen innen 30.09.2038.
+I gjennomføring av spørreundersøkelsen vil epostadresse, kommune og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet [Qualtrics](https://www.qualtrics.com/gdpr/). 
 
-Koblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata, vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. [Open Science Foundation](osf.io).
-
-Avidentifiserte innsamlede data fra spørreskjemaene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i [Tjenester for Sensitive Data (TSD)](https://www.uio.no/tjenester/it/forskning/sensitiv/), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun [forskere i prosjektet](https://www.sv.uio.no/psi/english/research/projects/heals/index.html) har tilgang, da kun avidentifiserte data.
+{{< include "../_03_rekruttering_personvern_utdypende_1.qmd" >}}
 
 ## Hvorfor får du/dere spørsmål om å delta?
 
-Dere får denne forespørselen fordi vi kontakter skoler i hele Norge. Det er behov for ekstra mange skoler i denne studien for å få nok data til å oppdage variasjon. Vi har innhentet kontaktinformasjon fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i [personvernforordningen artikkel 6, 1f](https://lovdata.no/lov/2018-06-15-38/gdpr/a6).
+Dere får denne forespørselen fordi vi kontakter kommuner i hele Norge. Det er behov for ekstra mange kommuner i denne studien for å få nok data til å oppdage variasjon. 
 
-## Hva gir oss rett til å behandle personopplysninger om deg?
-
-Vi behandler personopplysninger basert på samtykke fra den enkelte, hjemlet i [personvernforordningen artikkel 6, 1a](https://lovdata.no/lov/2018-06-15-38/gdpr/a6). På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket.
-
-## Dine rettigheter
-
-Så lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet [www.datatilsynet.no](http://www.datatilsynet.no). NIFU og UiO er felles forpliktet gjennom [personvernforordningen artikkel 26](https://lovdata.no/lov/2018-06-15-38/gdpr/a26) til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.
-
-## Spørsmål
-
-Hvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU eller UiO:
-
-+----------------------------------------------------+----------------------------------------------------------+
-| Prosjektets epost                                  | Egil Nygaard, prosjektleder                              |
-|                                                    |                                                          |
-| [heals\@nifu.no](mailto:heals@nifu.no)             | [egilny\@uio.no](mailto:egilny@uio.no)                   |
-+----------------------------------------------------+----------------------------------------------------------+
-| Personvernombud NIFU                               | Personvernombud UiO                                      |
-|                                                    |                                                          |
-| [claes.lampi\@nifu.no](mailto:claes.lampi@nifu.no) | [personvernombud\@uio.no](mailto:personvernombud@uio.no) |
-+----------------------------------------------------+----------------------------------------------------------+
-
-Hvis du har spørsmål knyttet til Sikts vurdering av prosjektet, kan du ta kontakt på e-post: [personverntjenester\@sikt.no](mailto:personverntjenester@sikt.no), eller på telefon: 73 98 40 40.
-
-## Behandlingsansvarlige institusjoner
-
-+----------------------+----------------------------------------------------------------------------+
-| Universitetet i Oslo | Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU) |
-|                      |                                                                            |
-| Problemveien 11      | Postboks 2815 Tøyen                                                        |
-|                      |                                                                            |
-| 0313 Oslo            | 0608 Oslo                                                                  |
-+----------------------+----------------------------------------------------------------------------+
+{{< include "../_03_rekruttering_personvern_utdypende_inst.qmd" >}}

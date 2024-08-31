@@ -1,0 +1,19 @@
+---
+title: "Utdypende om personvern"
+format: 
+  typst: default
+  html: default
+
+---
+
+## Utdypende om personvern – hvordan vi oppbevarer og bruker dine opplysninger
+
+I gjennomføring av spørreundersøkelsen vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet [Qualtrics](https://www.qualtrics.com/gdpr/). 
+
+{{< include "../_03_rekruttering_personvern_utdypende_1.qmd" >}}
+
+## Hvorfor får du/dere spørsmål om å delta?
+
+Dere får denne forespørselen fordi vi kontakter fylkeskommuner i hele Norge. Det er behov for ekstra mange skoler og skoleeiere i denne studien for å få nok data til å oppdage variasjon. 
+
+{{< include "../_03_rekruttering_personvern_utdypende_inst.qmd" >}}

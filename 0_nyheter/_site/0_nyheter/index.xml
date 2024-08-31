@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>HeaLS: Folkehelse og livsmestring i skolen</title>
+<link>heals.nifu.no/0_nyheter/</link>
+<atom:link href="heals.nifu.no/0_nyheter/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.28</generator>
+<lastBuildDate>Mon, 25 Mar 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Prosjektet er i gang</title>
+  <link>heals.nifu.no/0_nyheter/2024-03-26_Up_and_running/</link>
+  <description><![CDATA[ 
+
+
+
+
+<ul>
+<li>heals.nifu.no er nå på plass!</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>SIKT har vurdert infoskrivene</p></li>
+<li><p>Rekruttering begynner like etter påske</p></li>
+<li><p>Spørreskjemaene er under utvikling</p>
+<ul>
+<li><p>Vi har tatt utgangspunkt i teoretisk rammeverk for implementeringer, samt læreplanens faktiske omtaler av Folkehelse og livsmestring.</p></li>
+<li><p>Alle disse er blitt prioritert etter viktighet.</p></li>
+<li><p>Samtidig har vi tatt et nedenfra-opp perspektiv basert på erfaringer fra tidligere studier i skole-Norge.</p></li>
+</ul></li>
+<li><p>Nytt prosjektmedlem Christine snart på plass.</p></li>
+</ul>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Gjenbruk</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.nb">CC BY 4.0</a></div></div></section></div> ]]></description>
+  <guid>heals.nifu.no/0_nyheter/2024-03-26_Up_and_running/</guid>
+  <pubDate>Mon, 25 Mar 2024 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

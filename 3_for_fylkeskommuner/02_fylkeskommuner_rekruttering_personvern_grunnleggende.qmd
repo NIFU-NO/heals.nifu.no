@@ -1,0 +1,28 @@
+---
+title: "Informasjonsskriv"
+format: 
+  typst: default
+  html: default
+---
+
+## Formålet med forskningsprosjektene Health and Life Skills (HeaLS) og LIFE
+
+Vi ønsker å ha med fylkeskommuner som skoleeier i en nasjonal skoleforskningsstudie om det tverrfaglige temaet [Folkehelse og livsmestring](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob). 
+
+{{< include "../_02_rekruttering_personvern_grunnleggende_1.qmd" >}}
+
+## Hva innebærer det for fylkeskommunen å delta?
+
+Deltakelse innebærer at en representant fra fylkeskommunen besvarer en spørreundersøkelse (ca. 20 min) høsten 2024. Undersøkelsen inkluderer spørsmål rundt hvordan ev. intrafylkeskommunalt og interfylkeskommunalt arbeid med det tverrfaglige temaet Folkehelse og livsmestring foregår. Selv om fylkeskommunen ikke skulle ha en dedikert strategi eller dedikerte ansvarlige for dette er det ønskelig at dere blir med. Deres svar vil gjøre at vi trenger færre spørsmål til skolene, og dermed blir det mindre belastning på skolene. Undersøkelsene er nettbaserte. 
+
+Det er også flere [fordeler](../3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.qmd) ved å delta.
+
+## Hvilke andre typer opplysninger blir samlet inn?
+
+For at forskerne bedre skal forstå hvordan spørsmålene fungerer og hvordan undersøkelsen oppleves, gis det mulighet for å uttrykke seg om dette. Svar på disse spørsmålene benyttes ikke i videre forskning etter at kvalitetssikringsperioden er over. Det samles også inn teknisk prosessdata som eksempelvis type nettleser brukt, IP-adresse, og tid brukt på enkeltspørsmål og undersøkelsen totalt, som fjernes like etter undersøkelsen lukkes.
+
+{{< include "../_02_rekruttering_personvern_grunnleggende_2.qmd" >}}
+
+ Du kan lese [mer utdypende om personvern her](../3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.qmd).
+
+{{< include "../_02_rekruttering_personvern_grunnleggende_sign.qmd" >}}

@@ -1,0 +1,35 @@
+---
+title: "Om prosjektene"
+---
+
+{{< include "../_01_invitasjon_grunninfo_1.qmd" >}}
+
+Fylkeskommunens, skolenes og lærernes egne erfaringer er avgjørende for å forstå hvordan dette fungerer i praksis. Vi håper derfor at skoleeiere vil delta på en nasjonal undersøkelse. 
+
+{{< include "../_01_invitasjon_grunninfo_2.qmd" >}}
+
+## Hva innebærer deltakelse?
+
+For fylkeskommunen innebærer det at én representant for skoleeier svarer på et spørreskjema.
+
+Vi vil også kontakte alle videregående skoler i fylkeskommunen direkte med en invitasjon til å delta. For skolene innebærer det en spørreundersøkelse til et knippe lærere, og til én representant for skoleledelsen per skole.
+
+Spørreundersøkelsene sendes ut til skoleeier, skoleleder og lærere **februar 2025**. En ny invitasjon sendes ut **februar 2026**. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.
+
+Du kan også lese mer om hvordan vi håndterer [personvern i informasjonsskrivet](../3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.qmd).
+
+## Hva får skolene og fylkeskommunen igjen for å delta?{#sec-fordeler-fylkeskommuner}
+
+-   **Alle** lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres sommeren 2025 på [heals.nifu.no/nyheter](../0_nyheter/index.qmd) og per e-post.
+
+-   **Skoler**, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres sommeren 2025 på [heals.nifu.no/nyheter](../0_nyheter/index.qmd) og per e-post.
+
+-   **Alle** som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i *folkehelse og livsmestring* fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.
+
+-   **Skoler** får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i *folkehelse og livsmestring*. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon. Tiltaket gjøres tilgjengelig digitalt høsten 2025.
+
+-   **Skoler** med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til fylket av anonymitetshensyn.
+
+-   **Fylkeskommuner** vil få tilbakemelding på hvordan skolene i fylket har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og fylkeskommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025.
+
+Jo flere skoler som vi vet deltar, før sommeren begynner, dess færre lærere per skole trenger vi å invitere til spørreundersøkelsene.

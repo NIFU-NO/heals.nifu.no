@@ -1,0 +1,8 @@
+---
+title: "Kort presentasjon"
+sidebar: false
+---
+
+Last ned en kort presentasjon av HeaLS-prosjektet for intern formidling: [PPTX](HeaLS_kort_presentasjon.pptx).
+
+Presentasjonen inneholder ekstra notater for de som ønsker mer informasjon. 

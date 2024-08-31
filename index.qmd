@@ -1,22 +1,48 @@
 ---
-title: "HeaLS-prosjektet"
+title: "Skoleforskning på det tverrfaglige temaet Folkehelse og livsmestring"
 ---
 
 > Folkehelse og livsmestring som tverrfaglig tema i skolen skal gi elevene kompetanse som fremmer god psykisk og fysisk helse, og som gir muligheter til å ta ansvarlige livsvalg. (LK20)
 
-## Bakgrunn
--   Ny læreplan LK20 ("fagfornyelsen") ga eksplisitt oppføring av [_Folkehelse og livsmestring_](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob), med store målsettinger
--   Men lite detaljer om konkrete kompetansemål og hvordan det undervises.
--   Opp til skolene og lærerne hvordan dette skal omsettes til praksis.
--   Store variasjoner mellom skoler i elevmassens behov, lokale muligheter/trusler og lærerbakgrunner.
+::: {layout="[[60,40]]"}
 
-## Denne forventede variasjonen er utrolig nyttig for å studere 
+::: callout-note
+
+## Bli med i Norges største prosjekt for å finne ut hvordan vi kan styrke undervisning av folkehelse og livsmestring i skolen, og la lærerne uttrykke seg om disse utfordringene!
+
+Ønsker din skole å bli med?
+
+Trykk [her for en ferdigutfylt epost](mailto:heals@nifu.no?subject=Vi%20vil%20gjerne%20delta&body=Hei,%0Avi%20er%20interesserte%20i%20prosjektet%20og%20vil%20gjerne%20motta%20påmeldingsinformasjon.%0A%0AHilsen%20SKOLENAVN) du enkelt kan sende oss.
+
+Se også sidene i menyen ovenfor for informasjon om hva deltakelse innebærer for dere.
+
+:::
+
+![](_images/illustration_1.png){width=40%}
+
+:::
+
+## Bakgrunn
+
+-   Ny læreplan LK20 ("fagfornyelsen") ga eksplisitt oppføring av [*Folkehelse og livsmestring*](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob), med store målsettinger
+-   Men lite detaljer om konkrete kompetansemål og hvordan det undervises.
+-   Opp til skolene og lærerne lokalt hvordan mål skal omsettes til praksis.
+-   Store variasjoner mellom skoler i elevmassens behov, lokale muligheter/utfordringer og lærerbakgrunner.
+
+## Variasjonen gir mulighet for å finne ut
+
 -   Hvordan foregår opplæringen i folkehelse og livsmestring?
 -   Kan variasjoner i hvordan elevene lærer om folkehelse og livsmestring på skolen påvirke skolemiljøet og elevenes mentale helse, skoleprestasjoner og frafall?
 
-## Intensjonene er 
+## Dessuten
+
+-   Lærere får anledning til å uttrykke seg om utfordringer de har med å møte elevenes behov for støtte omkring psykisk helse og skolens behov for å styrke skolemiljøet
+
+## Intensjonene er
+
 -   Kortsiktig: Å forstå kompleksiteten i, og forbedre, implementeringene blant lærere, skoler og (fylkes)kommuner
 -   Langsiktig: Å forbedre skolemiljø, og elevenes mentale helse og skoleprestasjoner
 
-> Alle elevar har rett til eit trygt og godt skolemiljø som fremjar helse, trivsel og læring (Oppl.lov. § 9A-2)
-
+::: {.callout-tip title="Oppl.lov. § 9A-2"}
+> Alle elevar har rett til eit trygt og godt skolemiljø som fremjar helse, trivsel og læring
+:::

@@ -1,0 +1,12 @@
+---
+title: Finansiering
+---
+
+Forskning er avhenging av finansiering. HeaLS takker:
+
+|                                                                                             |                                                                                                                                                         |
+|:---------------------------:|:-----------------------------------------:|
+| [![](../_images/ERC.png){fig-alt="ERC" fig-align="center"}](https://erc.europa.eu/homepage) |                              [![](../_images/NFR.svg){fig-alt="NFR" fig-align="center"}](https://www.forskningsradet.no/)                               |
+|                   ![](../_images/Dam.png){fig-align="center" width="50%"}                   | [![](../_images/Radet_for_psykisk_helse.png){alt="Rådet for psykisk helse" fig-align="center"}](https://dam.no/organisasjoner/radet-for-psykisk-helse/) |
+
+LIFE takker Forskningsrådet

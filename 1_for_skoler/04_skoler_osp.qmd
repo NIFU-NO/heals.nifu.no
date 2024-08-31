@@ -1,0 +1,37 @@
+---
+title: "Kun to ting må til for at skolen deres kan delta"
+format: html
+editor: visual
+---
+
+(1) Meld på skolen din ved hjelp av dette skjemaet, her er det kun tre spørsmål: hvilket fylke skolen din ligger i, hva skolen din heter (velges fra en nedtrekksmeny), og om dere vil delta eller ikke: <https://nifueu.qualtrics.com/jfe/form/SV_aaDR9MONUSCYHz0>
+
+(2) Last opp liste over lærere ved din skole og gi oss kontaktinformasjon til en representant for skoleledelsen ved hjelp av dette skjemaet: <https://nifueu.qualtrics.com/jfe/form/SV_es8if4qDRw1Y41E>
+
+**Ofte stilte spørsmål**
+
+1.       **Jeg finner ikke skolen min i påmeldingsskjema, hvordan melder jeg på skolen min da?**\
+Send en epost til heals\@nifu.no med skolenavn og kommune, så kan vi registrere skolen din manuelt.
+
+**2.       Skolen min står oppført to ganger i listen i påmeldingsskjema, hvilken skal jeg velge?**
+
+Noen skoler har samme navn, enten fordi de har både videregående trinn og grunnskole trinn, eller bare fordi de har samme navn. For å skille mellom dem i påmeldingsskjema har vi skrevet grunnskole, vgs, eller kommune navn i parentes etter skolenavnet der det har vært relevant.
+
+3.       **Skal alle lærere på skolen være med på lærerlisten jeg laster opp, eller kun de som er interessert i å være med på forskningsprosjektet?**\
+Lærerne vil bli trukket tilfeldig i februar, og det er opp til dem om de har lyst til å svare på undersøkelsen eller ikke, derfor vil vi ha alle ansatte lærere ved din skole med på lista.
+
+**4.       Når er fristen for å melde seg på forskningsprosjektet?**
+
+Fristen er 1. januar.
+
+**5.       Når er fristen for å laste opp liste over lærere ansatt ved min skole?**
+
+Fristen er 1. januar
+
+**6.       I skjemaet for å laste opp lister over lærere ber dere om kontaktinfo for en representant ved skolen, hva skiller denne personen fra de som er ført opp på listen over lærere?**
+
+Representant for skoleledelsen vil få overordnede spørsmål om skolen. Det er da naturlig at denne ikke besvarer skjemaet for lærere. Vi vil unngå å sende ut til en lærer som samtidig står som skoleledelsens representant.
+
+**7.       Hvorfor er det to lenker til å melde seg på forskingsprosjektet om helse og livsmestring?**
+
+Den første [lenken](https://nifueu.qualtrics.com/jfe/form/SV_aaDR9MONUSCYHz0) er for å melde seg på forskningsprosjektet, den andre [lenken](https://nifueu.qualtrics.com/jfe/form/SV_es8if4qDRw1Y41E) er for å laste opp liste over ansatte lærere ved din skole og for å melde fra til oss hvem som kan svare på spørreskjema på vegne av skoleledelsen.

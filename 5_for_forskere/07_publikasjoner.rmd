@@ -1,0 +1,92 @@
+---
+title: "Publikasjoner"
+bibliography: references.bib
+cache: false
+---
+
+```{r, eval=TRUE, cache=FALSE}
+# Let's create a vector of nested collections
+collection.names <- c(
+  "Heals"
+)
+project_number_in_cristin <- 2710649
+
+# Create the collections
+create.collections <- c2z::Zotero(
+  collection.names = collection.names,
+  library = TRUE,
+  create = TRUE,
+  silent = TRUE
+)
+
+# Find collections
+collections <- c2z::Zotero(
+  collection.names = collection.names,
+  recursive = TRUE,
+  library = TRUE,
+  silent = TRUE
+)
+
+# Filter items
+cristin.filter <- 
+  c2z::CristinSupported() |>
+  dplyr::pull(cristin.category)
+
+# Query Cristin
+cristin <- c2z::Cristin(
+  project_code = project_number_in_cristin, 
+  filter = cristin.filter,
+  zotero.import = TRUE,
+  use.identifiers = TRUE,
+  crossref.search = TRUE,
+  autosearch = TRUE,
+  silent = FALSE
+)
+
+# Get the fox key
+key <- collections$collections |> 
+  dplyr::filter(name %in% collection.names) |> 
+  dplyr::pull("key")
+
+# Post the items to the collection called key
+post.cristin <- 
+  c2z::Zotero(
+  collection.key = key,
+  metadata = cristin$results,
+  library = TRUE,
+  index = TRUE,
+  post = TRUE,
+  post.collections = FALSE,
+  post.items = TRUE,
+  silent = TRUE
+)
+
+# Select only names in index and print
+# post.cristin$index |> 
+#   dplyr::select(name) |>
+#   print(width = 80)
+
+
+bibliography <- c2z::Zotero(
+  collection.names = collection.names,
+  recursive = TRUE,
+  library = TRUE,
+  export = TRUE,
+  format = "biblatex",
+  save.data = TRUE,
+  save.path = getwd(),
+  bib.name = "references",
+  csl.type = "apa-single-spaced",
+  csl.name = "style",
+  silent = TRUE
+)
+
+# cat(c2z::ZoteroFormat(bibliography$results, format = "JSON"))
+```
+
+
+### Arbeider i prosjektet
+
+---
+nocite: '@*'
+---

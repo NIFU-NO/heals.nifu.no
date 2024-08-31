@@ -5,11 +5,11 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>HeaLS: Folkehelse og livsmestring i skolen</title>
+<title>HeaLS og LIFE: Folkehelse og livsmestring i skolen</title>
 <link>heals.nifu.no/0_nyheter/</link>
 <atom:link href="heals.nifu.no/0_nyheter/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.5.25</generator>
+<generator>quarto-1.5.56</generator>
 <lastBuildDate>Mon, 25 Mar 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Prosjektet er i gang</title>

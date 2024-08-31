@@ -3,7 +3,7 @@ project:
   execute-dir: project
 
 website:
-  title: "HeaLS: Folkehelse og livsmestring i skolen"
+  title: "HeaLS og LIFE: Folkehelse og livsmestring i skolen"
   repo-url: "https://github.com/NIFU-NO/heals.nifu.no"
   repo-subdir: "_site"
   search: true
@@ -12,17 +12,39 @@ website:
   reader-mode: true
   navbar:
     left:
-      - href: "0_nyheter/index.qmd"
-        id: news
-      - href: "1_for_skoler/index.qmd"
-        id: schools
-      - href: "2_for_kommuner/index.qmd"
-        id: municipalities
-      - href: "3_for_forskere/index.qmd"
-        id: researchers
+      - sidebar:news
+      - sidebar:schools
+      - sidebar:municipalities
+      - sidebar:counties
+      - sidebar:researchers
+      - sidebar:presentation
   sidebar: 
-    contents: auto
+    - id: news
+      title: "Nyheter"
+      contents: 0_nyheter
+    - id: schools
+      title: "For skoler"
+      contents: 1_for_skoler
+    - id: municipalities
+      title: "For kommuner"
+      contents: 2_for_kommuner
+    - id: counties
+      title: "For fylkeskommuner"
+      contents: 3_for_fylkeskommuner
+    - id: researchers
+      title: "Mer om prosjektet"
+      contents: 5_for_forskere
+    - id: presentation
+      title: "PowerPoint-presentasjon"
+      contents: kort_presentasjon
   site-url: "heals.nifu.no"
+execute:
+  echo: false
+  warning: false
+  message: false
+  cache: true
+  freeze: auto
+
 fig-dpi: 800
 crossref:
  chapters: true
@@ -31,8 +53,8 @@ crossref:
  lof-title: 'Figuroversikt'
  lot-title: 'Tabelloversikt'
  title-delim: '**.**'
- fig-prefix: Figur
- tbl-prefix: Tabell
+ fig-prefix: figur
+ tbl-prefix: tabell
  ref-hyperlink: true
  labels: arabic
 # custom:
@@ -44,19 +66,19 @@ crossref:
 #    key: tbl
 fig-cap-location: bottom
 tbl-cap-location: top
-csl: 3_for_forskere/style.csl
+csl: 5_for_forskere/style.csl
 
 lang: "nb"
 license: "CC BY 4.0"
 format:
-  typst: default
+  # typst: default
   html:
     mainfont: "Calibri"
     fontsize: "10.5"
     linestretch: 1.6
     theme:
-     - yeti
-     # - "styles.scss"
+      light: [yeti, styles.scss]
+      dark: darkly
     css: "styles.css"
     toc: true
     comments:
@@ -68,12 +90,3 @@ format:
             document.querySelectorAll("figcaption").forEach(e => {e.innerHTML = e.innerHTML.replace(/^(Figur&nbsp;\d+)/, "<strong>$1</strong>")})
           });
         </script>
-
-
-execute:
-  echo: false
-  warning: false
-  message: false
-  cache: true
-  freeze: auto
-
