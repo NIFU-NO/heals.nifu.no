@@ -1,0 +1,13 @@
+---
+title: "Epost: Spørreundersøkelse om din fylkeskommunes arbeid med folkehelse og livsmestring i videregående skoler"
+format: 
+  html: default
+  typst: default
+  docx: default
+---
+
+{{< include "_00_skoleeier_fyl_epost_1.qmd" >}}
+
+Vi inviterer deg som representant for skoleier ved fylkeskommunen til en spørreundersøkelse som tar 20-25 minutter. 
+
+{{< include "_00_skoleeier_fyl_epost_2.qmd" >}}

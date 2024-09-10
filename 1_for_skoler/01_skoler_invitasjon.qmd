@@ -1,5 +1,8 @@
 ---
 title: "Om prosjektene"
+format: 
+  typst: default
+  html: default
 ---
 
 {{< include "../_01_invitasjon_grunninfo_1.qmd" >}}
@@ -32,4 +35,4 @@ Du kan også lese mer om hvordan vi håndterer [personvern](02_skoler_rekrutteri
 
 Tilbakemeldinger til skoler og kommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025, og refleksjonsopplegget høsten 2025.
 
-Jo flere skoler som vi vet deltar innen sommeren begynner, dess færre lærere per skole trenger vi å invitere til høstens spørreundersøkelser.
+Jo flere skoler som vi vet deltar innen jul, dess færre lærere per skole trenger vi å invitere til  spørreundersøkelsene i februar.

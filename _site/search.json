@@ -4,7 +4,7 @@
     "href": "kort_presentasjon/index.html",
     "title": "Kort presentasjon",
     "section": "",
-    "text": "Last ned en kort presentasjon av HeaLS-prosjektet for intern formidling: PPTX.\nPresentasjonen inneholder ekstra notater for de som ønsker mer informasjon.\n\n\n\nGjenbrukCC BY 4.0",
+    "text": "Last ned en kort presentasjon av HeaLS og LIFE-prosjektene for intern formidling: PPTX.\nPresentasjonen inneholder ekstra notater for de som ønsker mer informasjon.\n\n\n\nGjenbrukCC BY 4.0",
     "crumbs": [
       "Kort presentasjon"
     ]
@@ -93,132 +93,106 @@
     "text": "Andre forskningsprosjekter\n\nEffekt av “Folkehelse og livsmestring” i skolen: https://app.cristin.no/projects/show.jsf?id=2518123"
   },
   {
-    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html",
-    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html",
-    "title": "Utdypende om personvern",
+    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html",
+    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html",
+    "title": "Informasjonsskriv",
     "section": "",
-    "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. For at dataene skal kunne kobles sammen for de to undersøkelsene vil NIFU og UiS utveksle koblingsnøkler (personopplysninger) og data.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i HeaLS-prosjektet har tilgang, da kun til avidentifiserte data.",
+    "text": "Vi ønsker å ha med fylkeskommuner som skoleeier i en nasjonal skoleforskningsstudie om det tverrfaglige temaet Folkehelse og livsmestring.\nMålet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme Folkehelse og livsmestring gjennom undervisningen.",
     "crumbs": [
       "For fylkeskommuner",
-      "Utdypende om personvern"
+      "Informasjonsskriv"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#utdypende-om-personvern-hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
-    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#utdypende-om-personvern-hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
-    "title": "Utdypende om personvern",
+    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#formålet-med-forskningsprosjektene-health-and-life-skills-heals-og-life",
+    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#formålet-med-forskningsprosjektene-health-and-life-skills-heals-og-life",
+    "title": "Informasjonsskriv",
     "section": "",
-    "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. For at dataene skal kunne kobles sammen for de to undersøkelsene vil NIFU og UiS utveksle koblingsnøkler (personopplysninger) og data.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i HeaLS-prosjektet har tilgang, da kun til avidentifiserte data.",
+    "text": "Vi ønsker å ha med fylkeskommuner som skoleeier i en nasjonal skoleforskningsstudie om det tverrfaglige temaet Folkehelse og livsmestring.\nMålet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme Folkehelse og livsmestring gjennom undervisningen.",
     "crumbs": [
       "For fylkeskommuner",
-      "Utdypende om personvern"
+      "Informasjonsskriv"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
-    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
-    "title": "Utdypende om personvern",
-    "section": "Hvorfor får du/dere spørsmål om å delta?",
-    "text": "Hvorfor får du/dere spørsmål om å delta?\nDere får denne forespørselen fordi vi kontakter fylkeskommuner i hele Norge. Det er behov for ekstra mange skoler og skoleeiere i denne studien for å få nok data til å oppdage variasjon.\nVi har innhentet kontaktinformasjon fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i personvernforordningen artikkel 6, 1e.",
+    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hvem-er-ansvarlig-for-undersøkelsene",
+    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hvem-er-ansvarlig-for-undersøkelsene",
+    "title": "Informasjonsskriv",
+    "section": "Hvem er ansvarlig for undersøkelsene?",
+    "text": "Hvem er ansvarlig for undersøkelsene?\nHeaLS ledes av Psykologisk institutt ved UiO, mens NIFU har hovedansvar for datainnsamlingen. LIFE ledes av Skolemiljøsenteret ved UiS. UiO, NIFU og UiS har felles databehandleransvar, men kun NIFU og UiS håndterer personidentifiserende opplysninger. I tillegg deltar folk fra andre organisasjoner. Prosjektetene er enestående i sitt slag, og prosjektet vekker internasjonal oppmerksomhet. Derfor ble HeaLS finansiert av Det europeiske forskningsrådet (ERC) og LIFE av Forskningsrådet.",
     "crumbs": [
       "For fylkeskommuner",
-      "Utdypende om personvern"
+      "Informasjonsskriv"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
-    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
-    "title": "Utdypende om personvern",
-    "section": "Hva gir oss rett til å behandle personopplysninger om deg?",
-    "text": "Hva gir oss rett til å behandle personopplysninger om deg?\nVi behandler personopplysninger basert på allmennhetens interesse, hjemlet i personvernforordningen artikkel 6, 1e. På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket.",
+    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hva-innebærer-det-for-fylkeskommunen-å-delta",
+    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hva-innebærer-det-for-fylkeskommunen-å-delta",
+    "title": "Informasjonsskriv",
+    "section": "Hva innebærer det for fylkeskommunen å delta?",
+    "text": "Hva innebærer det for fylkeskommunen å delta?\nDeltakelse innebærer at en representant fra fylkeskommunen besvarer en spørreundersøkelse (ca. 20 min) høsten 2024. Undersøkelsen inkluderer spørsmål rundt hvordan ev. intrafylkeskommunalt og interfylkeskommunalt arbeid med det tverrfaglige temaet Folkehelse og livsmestring foregår. Selv om fylkeskommunen ikke skulle ha en dedikert strategi eller dedikerte ansvarlige for dette er det ønskelig at dere blir med. Deres svar vil gjøre at vi trenger færre spørsmål til skolene, og dermed blir det mindre belastning på skolene. Undersøkelsene er nettbaserte.\nDet er også flere fordeler ved å delta.",
     "crumbs": [
       "For fylkeskommuner",
-      "Utdypende om personvern"
+      "Informasjonsskriv"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#dine-rettigheter",
-    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#dine-rettigheter",
-    "title": "Utdypende om personvern",
-    "section": "Dine rettigheter",
-    "text": "Dine rettigheter\nSå lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet www.datatilsynet.no. NIFU, UiO og UiS er felles forpliktet gjennom personvernforordningen artikkel 26 til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.",
+    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hvilke-andre-typer-opplysninger-blir-samlet-inn",
+    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hvilke-andre-typer-opplysninger-blir-samlet-inn",
+    "title": "Informasjonsskriv",
+    "section": "Hvilke andre typer opplysninger blir samlet inn?",
+    "text": "Hvilke andre typer opplysninger blir samlet inn?\nFor at forskerne bedre skal forstå hvordan spørsmålene fungerer og hvordan undersøkelsen oppleves, gis det mulighet for å uttrykke seg om dette. Svar på disse spørsmålene benyttes ikke i videre forskning etter at kvalitetssikringsperioden er over. Det samles også inn teknisk prosessdata som eksempelvis type nettleser brukt, IP-adresse, og tid brukt på enkeltspørsmål og undersøkelsen totalt, som fjernes like etter undersøkelsen lukkes.",
     "crumbs": [
       "For fylkeskommuner",
-      "Utdypende om personvern"
+      "Informasjonsskriv"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#spørsmål",
-    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#spørsmål",
-    "title": "Utdypende om personvern",
-    "section": "Spørsmål",
-    "text": "Spørsmål\nHvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU, UiO eller UiS:\n\n\n\nHeaLS-prosjektets epost\nheals@nifu.no\nEgil Nygaard, prosjektleder\negilny@uio.no\nHildegunn Fandrem\nhildegunn.fandrem@uis.no\n\n\nPersonvernombud NIFU\nclaes.lampi@nifu.no\nPersonvernombud UiO\npersonvernombud@uio.no\nPersonvernombud UiS\npersonvernombud@uis.no\n\n\n\nHvis du har spørsmål knyttet til Sikts vurdering av prosjektene, kan du ta kontakt på e-post: personverntjenester@sikt.no, eller på telefon: 73 98 40 40.",
+    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#det-er-frivillig-å-delta",
+    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#det-er-frivillig-å-delta",
+    "title": "Informasjonsskriv",
+    "section": "Det er frivillig å delta",
+    "text": "Det er frivillig å delta\nDet er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som helst trekke samtykket tilbake uten å oppgi noen grunn. Alle dine personopplysninger vil da bli slettet. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta eller senere velger å trekke deg. Det er lov å hoppe over spørsmål eller avbryte besvarelsen underveis.",
     "crumbs": [
       "For fylkeskommuner",
-      "Utdypende om personvern"
+      "Informasjonsskriv"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
-    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
-    "title": "Utdypende om personvern",
-    "section": "Behandlingsansvarlige institusjoner",
-    "text": "Behandlingsansvarlige institusjoner\n\n\n\n\n\n\n\n\nHeaLS\nHealth and Life Skills\nLIFE\n\n\nUniversitetet i Oslo\nProblemveien 11\n0313 Oslo\nNordisk institutt for studier av innovasjon, forskning og utdanning (NIFU)\nPostboks 2815 Tøyen\n0608 Oslo\nUniversitetet i Stavanger\nPostboks 8600 Forus\n4036 Stavanger",
+    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#kort-om-personvern",
+    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#kort-om-personvern",
+    "title": "Informasjonsskriv",
+    "section": "Kort om personvern",
+    "text": "Kort om personvern\nVi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket.\nDu kan lese mer utdypende om personvern her.\nMed vennlig hilsen\n\n\n\nEgil Nygaard\nCay Gjerustad\nHildegunn Fandrem\n\n\n\n\nProfessor, UiO\nForskningsleder, NIFU\nProfessor, UiS",
     "crumbs": [
       "For fylkeskommuner",
-      "Utdypende om personvern"
+      "Informasjonsskriv"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html",
-    "href": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html",
-    "title": "Om prosjektene",
+    "objectID": "2_for_kommuner/index.html",
+    "href": "2_for_kommuner/index.html",
+    "title": "For kommuner",
     "section": "",
-    "text": "Innføringen av folkehelse og livsmestring som tverrfaglig tema i skolen skal bidra til å løse samfunnsproblemer rundt helse, livskvalitet, skoleprestasjoner og frafall. Her trenger vi mer kunnskap, både i Norge og internasjonalt:\nFylkeskommunens, skolenes og lærernes egne erfaringer er avgjørende for å forstå hvordan dette fungerer i praksis. Vi håper derfor at skoleeiere vil delta på en nasjonal undersøkelse.\nUndersøkelsen er et samarbeid mellom to forskningsprosjekter med samme tematikk men litt forskjellige fokus:\nSamarbeidet har som mål å redusere belastningen på skolesektoren og få mer ut av datainnsamlingen.",
-    "crumbs": [
-      "For fylkeskommuner",
-      "Om prosjektene"
-    ]
-  },
-  {
-    "objectID": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html#hva-innebærer-deltakelse",
-    "href": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html#hva-innebærer-deltakelse",
-    "title": "Om prosjektene",
-    "section": "Hva innebærer deltakelse?",
-    "text": "Hva innebærer deltakelse?\nFor fylkeskommunen innebærer det at én representant for skoleeier svarer på et spørreskjema.\nVi vil også kontakte alle videregående skoler i fylkeskommunen direkte med en invitasjon til å delta. For skolene innebærer det en spørreundersøkelse til et knippe lærere, og til én representant for skoleledelsen per skole.\nSpørreundersøkelsene sendes ut til skoleeier, skoleleder og lærere februar 2025. En ny invitasjon sendes ut februar 2026. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.\nDu kan også lese mer om hvordan vi håndterer personvern i informasjonsskrivet.",
-    "crumbs": [
-      "For fylkeskommuner",
-      "Om prosjektene"
-    ]
-  },
-  {
-    "objectID": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html#sec-fordeler-fylkeskommuner",
-    "href": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html#sec-fordeler-fylkeskommuner",
-    "title": "Om prosjektene",
-    "section": "Hva får skolene og fylkeskommunen igjen for å delta?",
-    "text": "Hva får skolene og fylkeskommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon. Tiltaket gjøres tilgjengelig digitalt høsten 2025.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til fylket av anonymitetshensyn.\nFylkeskommuner vil få tilbakemelding på hvordan skolene i fylket har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og fylkeskommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025.\n\nJo flere skoler som vi vet deltar, før sommeren begynner, dess færre lærere per skole trenger vi å invitere til spørreundersøkelsene.",
-    "crumbs": [
-      "For fylkeskommuner",
-      "Om prosjektene"
-    ]
+    "text": "GjenbrukCC BY 4.0"
   },
   {
     "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html",
     "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html",
     "title": "Utdypende om personvern",
     "section": "",
-    "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, kommune og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. For at dataene skal kunne kobles sammen for de to undersøkelsene vil NIFU og UiS utveksle koblingsnøkler (personopplysninger) og data.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i HeaLS-prosjektet har tilgang, da kun til avidentifiserte data.",
+    "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, kommune og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. Ny invitasjon og samtykkeskriv vil ble sendt ut på nytt til de samme utvalgene da dette er separate prosjekter.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i prosjektet har tilgang, da kun til avidentifiserte data.",
     "crumbs": [
       "For kommuner",
       "Utdypende om personvern"
     ]
   },
   {
-    "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#utdypende-om-personvern-hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
-    "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#utdypende-om-personvern-hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
+    "objectID": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
+    "href": "2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html#hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
     "title": "Utdypende om personvern",
     "section": "",
-    "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, kommune og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. For at dataene skal kunne kobles sammen for de to undersøkelsene vil NIFU og UiS utveksle koblingsnøkler (personopplysninger) og data.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i HeaLS-prosjektet har tilgang, da kun til avidentifiserte data.",
+    "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, kommune og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. Ny invitasjon og samtykkeskriv vil ble sendt ut på nytt til de samme utvalgene da dette er separate prosjekter.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i prosjektet har tilgang, da kun til avidentifiserte data.",
     "crumbs": [
       "For kommuner",
       "Utdypende om personvern"
@@ -306,21 +280,152 @@
     "href": "2_for_kommuner/01_kommuner_invitasjon.html#sec-fordeler-kommuner",
     "title": "Om prosjektene",
     "section": "Hva får skolene og kommunen igjen for å delta?",
-    "text": "Hva får skolene og kommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon. Tiltaket gjøres tilgjengelig digitalt høsten 2025.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen totalt sett har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til kommunen av anonymitetshensyn.\nKommuner vil få tilbakemelding på hvordan skolene i kommunen totalt sett har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og kommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025.\n\nJo flere skoler som vi vet deltar, før sommeren begynner, dess færre lærere per skole trenger vi å invitere til spørreundersøkelsene.",
+    "text": "Hva får skolene og kommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon. Tiltaket gjøres tilgjengelig digitalt høsten 2025.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen totalt sett har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til kommunen av anonymitetshensyn.\nKommuner vil få tilbakemelding på hvordan skolene i kommunen totalt sett har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og kommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025.\n\nJo flere skoler som vi vet deltar, innen jul, dess færre lærere per skole trenger vi å invitere.",
     "crumbs": [
       "For kommuner",
       "Om prosjektene"
     ]
   },
   {
-    "objectID": "1_for_skoler/04_skoler_osp.html",
-    "href": "1_for_skoler/04_skoler_osp.html",
-    "title": "Kun to ting må til for at skolen deres kan delta",
+    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html",
+    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html",
+    "title": "Utdypende om personvern",
     "section": "",
-    "text": "(1) Meld på skolen din ved hjelp av dette skjemaet, her er det kun tre spørsmål: hvilket fylke skolen din ligger i, hva skolen din heter (velges fra en nedtrekksmeny), og om dere vil delta eller ikke: https://nifueu.qualtrics.com/jfe/form/SV_aaDR9MONUSCYHz0\n(2) Last opp liste over lærere ved din skole og gi oss kontaktinformasjon til en representant for skoleledelsen ved hjelp av dette skjemaet: https://nifueu.qualtrics.com/jfe/form/SV_es8if4qDRw1Y41E\nOfte stilte spørsmål\n1.       Jeg finner ikke skolen min i påmeldingsskjema, hvordan melder jeg på skolen min da?\nSend en epost til heals@nifu.no med skolenavn og kommune, så kan vi registrere skolen din manuelt.\n2.       Skolen min står oppført to ganger i listen i påmeldingsskjema, hvilken skal jeg velge?\nNoen skoler har samme navn, enten fordi de har både videregående trinn og grunnskole trinn, eller bare fordi de har samme navn. For å skille mellom dem i påmeldingsskjema har vi skrevet grunnskole, vgs, eller kommune navn i parentes etter skolenavnet der det har vært relevant.\n3.       Skal alle lærere på skolen være med på lærerlisten jeg laster opp, eller kun de som er interessert i å være med på forskningsprosjektet?\nLærerne vil bli trukket tilfeldig i februar, og det er opp til dem om de har lyst til å svare på undersøkelsen eller ikke, derfor vil vi ha alle ansatte lærere ved din skole med på lista.\n4.       Når er fristen for å melde seg på forskningsprosjektet?\nFristen er 1. januar.\n5.       Når er fristen for å laste opp liste over lærere ansatt ved min skole?\nFristen er 1. januar\n6.       I skjemaet for å laste opp lister over lærere ber dere om kontaktinfo for en representant ved skolen, hva skiller denne personen fra de som er ført opp på listen over lærere?\nRepresentant for skoleledelsen vil få overordnede spørsmål om skolen. Det er da naturlig at denne ikke besvarer skjemaet for lærere. Vi vil unngå å sende ut til en lærer som samtidig står som skoleledelsens representant.\n7.       Hvorfor er det to lenker til å melde seg på forskingsprosjektet om helse og livsmestring?\nDen første lenken er for å melde seg på forskningsprosjektet, den andre lenken er for å laste opp liste over ansatte lærere ved din skole og for å melde fra til oss hvem som kan svare på spørreskjema på vegne av skoleledelsen.\n\n\n\nGjenbrukCC BY 4.0",
+    "text": "I gjennomføring av spørreundersøkelsen 2025 vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles inn av NIFU med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. Ny invitasjon og samtykkeskriv vil ble sendt ut på nytt til de samme utvalgene da dette er separate prosjekter.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i prosjektet har tilgang, da kun til avidentifiserte data.",
     "crumbs": [
       "For skoler",
-      "Kun to ting må til for at skolen deres kan delta"
+      "Utdypende om personvern"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
+    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
+    "title": "Utdypende om personvern",
+    "section": "",
+    "text": "I gjennomføring av spørreundersøkelsen 2025 vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles inn av NIFU med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. Ny invitasjon og samtykkeskriv vil ble sendt ut på nytt til de samme utvalgene da dette er separate prosjekter.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i prosjektet har tilgang, da kun til avidentifiserte data.",
+    "crumbs": [
+      "For skoler",
+      "Utdypende om personvern"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
+    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
+    "title": "Utdypende om personvern",
+    "section": "Hvorfor får du/dere spørsmål om å delta?",
+    "text": "Hvorfor får du/dere spørsmål om å delta?\nDin skole får denne forespørselen fordi vi kontakter alle grunnskoler og videregående skoler i Norge. Det er behov for ekstra mange skoler i denne studien for å få nok data til å oppdage variasjon mellom skoler.\nVi har innhentet kontaktinformasjon fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i personvernforordningen artikkel 6, 1e.",
+    "crumbs": [
+      "For skoler",
+      "Utdypende om personvern"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
+    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
+    "title": "Utdypende om personvern",
+    "section": "Hva gir oss rett til å behandle personopplysninger om deg?",
+    "text": "Hva gir oss rett til å behandle personopplysninger om deg?\nVi behandler personopplysninger basert på allmennhetens interesse, hjemlet i personvernforordningen artikkel 6, 1e. På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket.",
+    "crumbs": [
+      "For skoler",
+      "Utdypende om personvern"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#dine-rettigheter",
+    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#dine-rettigheter",
+    "title": "Utdypende om personvern",
+    "section": "Dine rettigheter",
+    "text": "Dine rettigheter\nSå lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet www.datatilsynet.no. NIFU, UiO og UiS er felles forpliktet gjennom personvernforordningen artikkel 26 til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.",
+    "crumbs": [
+      "For skoler",
+      "Utdypende om personvern"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#spørsmål",
+    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#spørsmål",
+    "title": "Utdypende om personvern",
+    "section": "Spørsmål",
+    "text": "Spørsmål\nHvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU, UiO eller UiS:\n\n\n\nHeaLS-prosjektets epost\nheals@nifu.no\nEgil Nygaard, prosjektleder\negilny@uio.no\nHildegunn Fandrem\nhildegunn.fandrem@uis.no\n\n\nPersonvernombud NIFU\nclaes.lampi@nifu.no\nPersonvernombud UiO\npersonvernombud@uio.no\nPersonvernombud UiS\npersonvernombud@uis.no\n\n\n\nHvis du har spørsmål knyttet til Sikts vurdering av prosjektene, kan du ta kontakt på e-post: personverntjenester@sikt.no, eller på telefon: 73 98 40 40.",
+    "crumbs": [
+      "For skoler",
+      "Utdypende om personvern"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
+    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
+    "title": "Utdypende om personvern",
+    "section": "Behandlingsansvarlige institusjoner",
+    "text": "Behandlingsansvarlige institusjoner\n\n\n\n\n\n\n\n\nHeaLS\nHealth and Life Skills\nLIFE\n\n\nUniversitetet i Oslo\nProblemveien 11\n0313 Oslo\nNordisk institutt for studier av innovasjon, forskning og utdanning (NIFU)\nPostboks 2815 Tøyen\n0608 Oslo\nUniversitetet i Stavanger\nPostboks 8600 Forus\n4036 Stavanger",
+    "crumbs": [
+      "For skoler",
+      "Utdypende om personvern"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/01_skoler_invitasjon.html",
+    "href": "1_for_skoler/01_skoler_invitasjon.html",
+    "title": "Om prosjektene",
+    "section": "",
+    "text": "Innføringen av folkehelse og livsmestring som tverrfaglig tema i skolen skal bidra til å løse samfunnsproblemer rundt helse, livskvalitet, skoleprestasjoner og frafall. Her trenger vi mer kunnskap, både i Norge og internasjonalt:\nSkolenes egne erfaringer er avgjørende for å forstå hvordan dette fungerer i praksis. Vi håper derfor at norske grunnskoler og videregående skoler vil delta i en nasjonal undersøkelse.\nUndersøkelsen er et samarbeid mellom to forskningsprosjekter med samme tematikk men litt forskjellige fokus:\nSamarbeidet har som mål å redusere belastningen på skolesektoren og få mer ut av datainnsamlingen.",
+    "crumbs": [
+      "For skoler",
+      "Om prosjektene"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/01_skoler_invitasjon.html#hva-innebærer-deltakelse",
+    "href": "1_for_skoler/01_skoler_invitasjon.html#hva-innebærer-deltakelse",
+    "title": "Om prosjektene",
+    "section": "Hva innebærer deltakelse?",
+    "text": "Hva innebærer deltakelse?\nDeltakelse innebærer en spørreundersøkelse til et knippe lærere, og en representant for skoleledelsen på hver skole. Spørreundersøkelsen sendes ut til skoleleder og lærere rundt februar 2025. En ny invitasjon sendes ut februar 2026. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.\nOm skolen din vil delta i forskningsprosjektet, send epost til heals@nifu.no med navn på skolen, slik at vi kan sende dere påmeldingslenke.\nDu kan også lese mer om hvordan vi håndterer personvern.",
+    "crumbs": [
+      "For skoler",
+      "Om prosjektene"
+    ]
+  },
+  {
+    "objectID": "1_for_skoler/01_skoler_invitasjon.html#sec-fordeler-skoler",
+    "href": "1_for_skoler/01_skoler_invitasjon.html#sec-fordeler-skoler",
+    "title": "Om prosjektene",
+    "section": "Hva får skolene og kommunen igjen for å delta?",
+    "text": "Hva får skolene og kommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen totalt sett har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til kommunen av anonymitetshensyn.\nKommuner vil få tilbakemelding på hvordan skolene i kommunen totalt sett har svart sammenlignet med resten av landet. For videregående skoler vil tilsvarende gjøres for fylkeskommunenivået.\n\nTilbakemeldinger til skoler og kommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025, og refleksjonsopplegget høsten 2025.\nJo flere skoler som vi vet deltar innen jul, dess færre lærere per skole trenger vi å invitere til spørreundersøkelsene i februar.",
+    "crumbs": [
+      "For skoler",
+      "Om prosjektene"
+    ]
+  },
+  {
+    "objectID": "0_nyheter/2024-09-10_Rekruttering_startet/index.html",
+    "href": "0_nyheter/2024-09-10_Rekruttering_startet/index.html",
+    "title": "Rekruttering i gang",
+    "section": "",
+    "text": "I dag gikk startskuddet for rekruttering av skoler og skoleeiere. Nå som HeaLS og LIFE-prosjektene har samarbeidet om å gjennomføre datainnsamlingene så vil det bli mer ressurser tilgjengelig, bedre kvalitet på spørreundersøkelsene og forskningen vil kunne få besvart flere spørsmål for den offentlige støtten som er gitt gjennom det europeiske forskningsrådet og norges forskningsråd. Altså vinn-vinn for alle parter. Vi gleder oss!\n\n\n\nGjenbrukCC BY 4.0",
+    "crumbs": [
+      "Nyheter",
+      "Rekruttering i gang"
+    ]
+  },
+  {
+    "objectID": "0_nyheter/2024-03-26_Up_and_running/index.html",
+    "href": "0_nyheter/2024-03-26_Up_and_running/index.html",
+    "title": "Prosjektet er i gang",
+    "section": "",
+    "text": "heals.nifu.no er nå på plass!\n\n\n\nSIKT har vurdert infoskrivene\nRekruttering begynner like etter påske\nSpørreskjemaene er under utvikling\n\nVi har tatt utgangspunkt i teoretisk rammeverk for implementeringer, samt læreplanens faktiske omtaler av Folkehelse og livsmestring.\nAlle disse er blitt prioritert etter viktighet.\nSamtidig har vi tatt et nedenfra-opp perspektiv basert på erfaringer fra tidligere studier i skole-Norge.\n\nNytt prosjektmedlem Christine snart på plass.\n\n\n\n\nGjenbrukCC BY 4.0",
+    "crumbs": [
+      "Nyheter",
+      "Prosjektet er i gang"
+    ]
+  },
+  {
+    "objectID": "0_nyheter/index.html",
+    "href": "0_nyheter/index.html",
+    "title": "Nyheter",
+    "section": "",
+    "text": "Sortér etter\n       Standard\n         \n          Overskrift\n        \n         \n          Dato - Eldste\n        \n         \n          Dato - Nyeste\n        \n         \n          Forfatter\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nRekruttering i gang\n\n\n\n\n\n\n\n\n\n\n\n10. sep. 2024\n\n\n\n\n\n\n\n\n\n\n\n\nProsjektet er i gang\n\n\n\n\n\n\n\n\n\n\n\n26. mars 2024\n\n\n\n\n\n\nIngen resultater\n\nGjenbrukCC BY 4.0",
+    "crumbs": [
+      "Nyheter"
     ]
   },
   {
@@ -412,134 +517,14 @@
     ]
   },
   {
-    "objectID": "0_nyheter/index.html",
-    "href": "0_nyheter/index.html",
-    "title": "Nyheter",
+    "objectID": "1_for_skoler/04_skoler_osp.html",
+    "href": "1_for_skoler/04_skoler_osp.html",
+    "title": "Kun to ting må til for at skolen deres kan delta",
     "section": "",
-    "text": "Sortér etter\n       Standard\n         \n          Overskrift\n        \n         \n          Dato - Eldste\n        \n         \n          Dato - Nyeste\n        \n         \n          Forfatter\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProsjektet er i gang\n\n\n\n\n\n\n\n\n\n\n\n26. mars 2024\n\n\n\n\n\n\nIngen resultater\n\nGjenbrukCC BY 4.0",
-    "crumbs": [
-      "Nyheter"
-    ]
-  },
-  {
-    "objectID": "0_nyheter/2024-03-26_Up_and_running/index.html",
-    "href": "0_nyheter/2024-03-26_Up_and_running/index.html",
-    "title": "Prosjektet er i gang",
-    "section": "",
-    "text": "heals.nifu.no er nå på plass!\n\n\n\nSIKT har vurdert infoskrivene\nRekruttering begynner like etter påske\nSpørreskjemaene er under utvikling\n\nVi har tatt utgangspunkt i teoretisk rammeverk for implementeringer, samt læreplanens faktiske omtaler av Folkehelse og livsmestring.\nAlle disse er blitt prioritert etter viktighet.\nSamtidig har vi tatt et nedenfra-opp perspektiv basert på erfaringer fra tidligere studier i skole-Norge.\n\nNytt prosjektmedlem Christine snart på plass.\n\n\n\n\nGjenbrukCC BY 4.0",
-    "crumbs": [
-      "Nyheter",
-      "Prosjektet er i gang"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/01_skoler_invitasjon.html",
-    "href": "1_for_skoler/01_skoler_invitasjon.html",
-    "title": "Om prosjektene",
-    "section": "",
-    "text": "Innføringen av folkehelse og livsmestring som tverrfaglig tema i skolen skal bidra til å løse samfunnsproblemer rundt helse, livskvalitet, skoleprestasjoner og frafall. Her trenger vi mer kunnskap, både i Norge og internasjonalt:\nSkolenes egne erfaringer er avgjørende for å forstå hvordan dette fungerer i praksis. Vi håper derfor at norske grunnskoler og videregående skoler vil delta i en nasjonal undersøkelse.\nUndersøkelsen er et samarbeid mellom to forskningsprosjekter med samme tematikk men litt forskjellige fokus:\nSamarbeidet har som mål å redusere belastningen på skolesektoren og få mer ut av datainnsamlingen.",
+    "text": "(1) Meld på skolen din ved hjelp av dette skjemaet, her er det kun tre spørsmål: hvilket fylke skolen din ligger i, hva skolen din heter (velges fra en nedtrekksmeny), og om dere vil delta eller ikke: https://nifueu.qualtrics.com/jfe/form/SV_aaDR9MONUSCYHz0\n(2) Last opp liste over lærere ved din skole og gi oss kontaktinformasjon til en representant for skoleledelsen ved hjelp av dette skjemaet: https://nifueu.qualtrics.com/jfe/form/SV_es8if4qDRw1Y41E\nOfte stilte spørsmål\n1.       Jeg finner ikke skolen min i påmeldingsskjema, hvordan melder jeg på skolen min da?\nSend en epost til heals@nifu.no med skolenavn og kommune, så kan vi registrere skolen din manuelt.\n2.       Skolen min står oppført to ganger i listen i påmeldingsskjema, hvilken skal jeg velge?\nNoen skoler har samme navn, enten fordi de har både videregående trinn og grunnskole trinn, eller bare fordi de har samme navn. For å skille mellom dem i påmeldingsskjema har vi skrevet grunnskole, vgs, eller kommune navn i parentes etter skolenavnet der det har vært relevant.\n3.       Skal alle lærere på skolen være med på lærerlisten jeg laster opp, eller kun de som er interessert i å være med på forskningsprosjektet?\nLærerne vil bli trukket tilfeldig i februar, og det er opp til dem om de har lyst til å svare på undersøkelsen eller ikke, derfor vil vi ha alle ansatte lærere ved din skole med på lista.\n4.       Når er fristen for å melde seg på forskningsprosjektet?\nFristen er 1. januar.\n5.       Når er fristen for å laste opp liste over lærere ansatt ved min skole?\nFristen er 1. januar\n6.       I skjemaet for å laste opp lister over lærere ber dere om kontaktinfo for en representant ved skolen, hva skiller denne personen fra de som er ført opp på listen over lærere?\nRepresentant for skoleledelsen vil få overordnede spørsmål om skolen. Det er da naturlig at denne ikke besvarer skjemaet for lærere. Vi vil unngå å sende ut til en lærer som samtidig står som skoleledelsens representant.\n7.       Hvorfor er det to lenker til å melde seg på forskingsprosjektet om helse og livsmestring?\nDen første lenken er for å melde seg på forskningsprosjektet, den andre lenken er for å laste opp liste over ansatte lærere ved din skole og for å melde fra til oss hvem som kan svare på spørreskjema på vegne av skoleledelsen.\n\n\n\nGjenbrukCC BY 4.0",
     "crumbs": [
       "For skoler",
-      "Om prosjektene"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/01_skoler_invitasjon.html#hva-innebærer-deltakelse",
-    "href": "1_for_skoler/01_skoler_invitasjon.html#hva-innebærer-deltakelse",
-    "title": "Om prosjektene",
-    "section": "Hva innebærer deltakelse?",
-    "text": "Hva innebærer deltakelse?\nDeltakelse innebærer en spørreundersøkelse til et knippe lærere, og en representant for skoleledelsen på hver skole. Spørreundersøkelsen sendes ut til skoleleder og lærere rundt februar 2025. En ny invitasjon sendes ut februar 2026. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.\nOm skolen din vil delta i forskningsprosjektet, send epost til heals@nifu.no med navn på skolen, slik at vi kan sende dere påmeldingslenke.\nDu kan også lese mer om hvordan vi håndterer personvern.",
-    "crumbs": [
-      "For skoler",
-      "Om prosjektene"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/01_skoler_invitasjon.html#sec-fordeler-skoler",
-    "href": "1_for_skoler/01_skoler_invitasjon.html#sec-fordeler-skoler",
-    "title": "Om prosjektene",
-    "section": "Hva får skolene og kommunen igjen for å delta?",
-    "text": "Hva får skolene og kommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen totalt sett har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til kommunen av anonymitetshensyn.\nKommuner vil få tilbakemelding på hvordan skolene i kommunen totalt sett har svart sammenlignet med resten av landet. For videregående skoler vil tilsvarende gjøres for fylkeskommunenivået.\n\nTilbakemeldinger til skoler og kommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025, og refleksjonsopplegget høsten 2025.\nJo flere skoler som vi vet deltar innen sommeren begynner, dess færre lærere per skole trenger vi å invitere til høstens spørreundersøkelser.",
-    "crumbs": [
-      "For skoler",
-      "Om prosjektene"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html",
-    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html",
-    "title": "Utdypende om personvern",
-    "section": "",
-    "text": "I gjennomføring av spørreundersøkelsen 2025 vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles inn av NIFU med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. For at dataene skal kunne kobles sammen for de to undersøkelsene vil NIFU og UiS utveksle koblingsnøkler (personopplysninger) og data.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i HeaLS-prosjektet har tilgang, da kun til avidentifiserte data.",
-    "crumbs": [
-      "For skoler",
-      "Utdypende om personvern"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#utdypende-om-personvern-hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
-    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#utdypende-om-personvern-hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
-    "title": "Utdypende om personvern",
-    "section": "",
-    "text": "I gjennomføring av spørreundersøkelsen 2025 vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles inn av NIFU med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. For at dataene skal kunne kobles sammen for de to undersøkelsene vil NIFU og UiS utveksle koblingsnøkler (personopplysninger) og data.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i HeaLS-prosjektet har tilgang, da kun til avidentifiserte data.",
-    "crumbs": [
-      "For skoler",
-      "Utdypende om personvern"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
-    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
-    "title": "Utdypende om personvern",
-    "section": "Hvorfor får du/dere spørsmål om å delta?",
-    "text": "Hvorfor får du/dere spørsmål om å delta?\nDin skole får denne forespørselen fordi vi kontakter alle grunnskoler og videregående skoler i Norge. Det er behov for ekstra mange skoler i denne studien for å få nok data til å oppdage variasjon mellom skoler.\nVi har innhentet kontaktinformasjon fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i personvernforordningen artikkel 6, 1e.",
-    "crumbs": [
-      "For skoler",
-      "Utdypende om personvern"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
-    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
-    "title": "Utdypende om personvern",
-    "section": "Hva gir oss rett til å behandle personopplysninger om deg?",
-    "text": "Hva gir oss rett til å behandle personopplysninger om deg?\nVi behandler personopplysninger basert på allmennhetens interesse, hjemlet i personvernforordningen artikkel 6, 1e. På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket.",
-    "crumbs": [
-      "For skoler",
-      "Utdypende om personvern"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#dine-rettigheter",
-    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#dine-rettigheter",
-    "title": "Utdypende om personvern",
-    "section": "Dine rettigheter",
-    "text": "Dine rettigheter\nSå lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet www.datatilsynet.no. NIFU, UiO og UiS er felles forpliktet gjennom personvernforordningen artikkel 26 til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.",
-    "crumbs": [
-      "For skoler",
-      "Utdypende om personvern"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#spørsmål",
-    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#spørsmål",
-    "title": "Utdypende om personvern",
-    "section": "Spørsmål",
-    "text": "Spørsmål\nHvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU, UiO eller UiS:\n\n\n\nHeaLS-prosjektets epost\nheals@nifu.no\nEgil Nygaard, prosjektleder\negilny@uio.no\nHildegunn Fandrem\nhildegunn.fandrem@uis.no\n\n\nPersonvernombud NIFU\nclaes.lampi@nifu.no\nPersonvernombud UiO\npersonvernombud@uio.no\nPersonvernombud UiS\npersonvernombud@uis.no\n\n\n\nHvis du har spørsmål knyttet til Sikts vurdering av prosjektene, kan du ta kontakt på e-post: personverntjenester@sikt.no, eller på telefon: 73 98 40 40.",
-    "crumbs": [
-      "For skoler",
-      "Utdypende om personvern"
-    ]
-  },
-  {
-    "objectID": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
-    "href": "1_for_skoler/03_skoler_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
-    "title": "Utdypende om personvern",
-    "section": "Behandlingsansvarlige institusjoner",
-    "text": "Behandlingsansvarlige institusjoner\n\n\n\n\n\n\n\n\nHeaLS\nHealth and Life Skills\nLIFE\n\n\nUniversitetet i Oslo\nProblemveien 11\n0313 Oslo\nNordisk institutt for studier av innovasjon, forskning og utdanning (NIFU)\nPostboks 2815 Tøyen\n0608 Oslo\nUniversitetet i Stavanger\nPostboks 8600 Forus\n4036 Stavanger",
-    "crumbs": [
-      "For skoler",
-      "Utdypende om personvern"
+      "Kun to ting må til for at skolen deres kan delta"
     ]
   },
   {
@@ -627,87 +612,113 @@
     ]
   },
   {
-    "objectID": "2_for_kommuner/index.html",
-    "href": "2_for_kommuner/index.html",
-    "title": "For kommuner",
+    "objectID": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html",
+    "href": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html",
+    "title": "Om prosjektene",
     "section": "",
-    "text": "GjenbrukCC BY 4.0"
+    "text": "Innføringen av folkehelse og livsmestring som tverrfaglig tema i skolen skal bidra til å løse samfunnsproblemer rundt helse, livskvalitet, skoleprestasjoner og frafall. Her trenger vi mer kunnskap, både i Norge og internasjonalt:\nFylkeskommunens, skolenes og lærernes egne erfaringer er avgjørende for å forstå hvordan dette fungerer i praksis. Vi håper derfor at skoleeiere vil delta på en nasjonal undersøkelse.\nUndersøkelsen er et samarbeid mellom to forskningsprosjekter med samme tematikk men litt forskjellige fokus:\nSamarbeidet har som mål å redusere belastningen på skolesektoren og få mer ut av datainnsamlingen.",
+    "crumbs": [
+      "For fylkeskommuner",
+      "Om prosjektene"
+    ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html",
-    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html",
-    "title": "Informasjonsskriv",
+    "objectID": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html#hva-innebærer-deltakelse",
+    "href": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html#hva-innebærer-deltakelse",
+    "title": "Om prosjektene",
+    "section": "Hva innebærer deltakelse?",
+    "text": "Hva innebærer deltakelse?\nFor fylkeskommunen innebærer det at én representant for skoleeier svarer på et spørreskjema.\nVi vil også kontakte alle videregående skoler i fylkeskommunen direkte med en invitasjon til å delta. For skolene innebærer det en spørreundersøkelse til et knippe lærere, og til én representant for skoleledelsen per skole.\nSpørreundersøkelsene sendes ut til skoleeier, skoleleder og lærere februar 2025. En ny invitasjon sendes ut februar 2026. Det tar 15-20 minutter å svare på undersøkelsene, som også er mobilvennlige.\nDu kan også lese mer om hvordan vi håndterer personvern i informasjonsskrivet.",
+    "crumbs": [
+      "For fylkeskommuner",
+      "Om prosjektene"
+    ]
+  },
+  {
+    "objectID": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html#sec-fordeler-fylkeskommuner",
+    "href": "3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html#sec-fordeler-fylkeskommuner",
+    "title": "Om prosjektene",
+    "section": "Hva får skolene og fylkeskommunen igjen for å delta?",
+    "text": "Hva får skolene og fylkeskommunen igjen for å delta?\n\nAlle lærere, skoleledere og skoleeiere som svarer på spørreundersøkelsen, deltar i trekning av 50 gavekort fra DittGavekort.no på 2 000 kr (odds er bedre enn 1:400) som kan benyttes i hele Norge. Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nSkoler, med svar fra skoleleder og minst 2 lærere, deltar i trekning av 3 premier av verdi 10 000 kr (odds er bedre enn 1:1000). Vinnere kunngjøres sommeren 2025 på heals.nifu.no/nyheter og per e-post.\nAlle som svarer på spørreundersøkelsen inviteres til 1-2 timers webinar innen prosjektslutt, med faglig påfyll om undervisning i folkehelse og livsmestring fra erfarne forskere og lærere, og presentasjon av foreløpige funn fra spørreundersøkelsene.\nSkoler får tilgang på et refleksjonsopplegg for kollektiv profesjonsutvikling om undervisning i folkehelse og livsmestring. Opplegget er gruppebasert og kan gjennomføres i fellestid. Det består av faglig påfyll og praksisfortellinger samt oppgaver for refleksjon og diskusjon. Tiltaket gjøres tilgjengelig digitalt høsten 2025.\nSkoler med svar fra nok lærere vil få tilbakemeldinger på hvordan lærerne ved skolen har svart sammenlignet med resten av landet. Ved for få svar aggregerer vi opp til fylket av anonymitetshensyn.\nFylkeskommuner vil få tilbakemelding på hvordan skolene i fylket har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og fylkeskommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025.\n\nJo flere skoler som vi vet deltar, innen jul, dess færre lærere per skole trenger vi å invitere.",
+    "crumbs": [
+      "For fylkeskommuner",
+      "Om prosjektene"
+    ]
+  },
+  {
+    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html",
+    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html",
+    "title": "Utdypende om personvern",
     "section": "",
-    "text": "Vi ønsker å ha med fylkeskommuner som skoleeier i en nasjonal skoleforskningsstudie om det tverrfaglige temaet Folkehelse og livsmestring.\nMålet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme Folkehelse og livsmestring gjennom undervisningen.",
+    "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. Ny invitasjon og samtykkeskriv vil ble sendt ut på nytt til de samme utvalgene da dette er separate prosjekter.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i prosjektet har tilgang, da kun til avidentifiserte data.",
     "crumbs": [
       "For fylkeskommuner",
-      "Informasjonsskriv"
+      "Utdypende om personvern"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#formålet-med-forskningsprosjektene-health-and-life-skills-heals-og-life",
-    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#formålet-med-forskningsprosjektene-health-and-life-skills-heals-og-life",
-    "title": "Informasjonsskriv",
+    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
+    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hvordan-vi-oppbevarer-og-bruker-dine-opplysninger",
+    "title": "Utdypende om personvern",
     "section": "",
-    "text": "Vi ønsker å ha med fylkeskommuner som skoleeier i en nasjonal skoleforskningsstudie om det tverrfaglige temaet Folkehelse og livsmestring.\nMålet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme Folkehelse og livsmestring gjennom undervisningen.",
+    "text": "I gjennomføring av spørreundersøkelsen vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles med surveysystemet Qualtrics.\nData vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data.\nUniversitetet i Stavanger (UiS) vil gjennomføre den andre spørreundersøkelsen i 2026. Ny invitasjon og samtykkeskriv vil ble sendt ut på nytt til de samme utvalgene da dette er separate prosjekter.\nKoblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. Open Science Foundation.\nAvidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i Tjenester for Sensitive Data (TSD), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun forskere i prosjektet har tilgang, da kun til avidentifiserte data.",
     "crumbs": [
       "For fylkeskommuner",
-      "Informasjonsskriv"
+      "Utdypende om personvern"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hvem-er-ansvarlig-for-undersøkelsene",
-    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hvem-er-ansvarlig-for-undersøkelsene",
-    "title": "Informasjonsskriv",
-    "section": "Hvem er ansvarlig for undersøkelsene?",
-    "text": "Hvem er ansvarlig for undersøkelsene?\nHeaLS ledes av Psykologisk institutt ved UiO, mens NIFU har hovedansvar for datainnsamlingen. LIFE ledes av Skolemiljøsenteret ved UiS. UiO, NIFU og UiS har felles databehandleransvar, men kun NIFU og UiS håndterer personidentifiserende opplysninger. I tillegg deltar folk fra andre organisasjoner. Prosjektetene er enestående i sitt slag, og prosjektet vekker internasjonal oppmerksomhet. Derfor ble HeaLS finansiert av Det europeiske forskningsrådet (ERC) og LIFE av Forskningsrådet.",
+    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
+    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hvorfor-får-dudere-spørsmål-om-å-delta",
+    "title": "Utdypende om personvern",
+    "section": "Hvorfor får du/dere spørsmål om å delta?",
+    "text": "Hvorfor får du/dere spørsmål om å delta?\nDere får denne forespørselen fordi vi kontakter fylkeskommuner i hele Norge. Det er behov for ekstra mange skoler og skoleeiere i denne studien for å få nok data til å oppdage variasjon.\nVi har innhentet kontaktinformasjon fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i personvernforordningen artikkel 6, 1e.",
     "crumbs": [
       "For fylkeskommuner",
-      "Informasjonsskriv"
+      "Utdypende om personvern"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hva-innebærer-det-for-fylkeskommunen-å-delta",
-    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hva-innebærer-det-for-fylkeskommunen-å-delta",
-    "title": "Informasjonsskriv",
-    "section": "Hva innebærer det for fylkeskommunen å delta?",
-    "text": "Hva innebærer det for fylkeskommunen å delta?\nDeltakelse innebærer at en representant fra fylkeskommunen besvarer en spørreundersøkelse (ca. 20 min) høsten 2024. Undersøkelsen inkluderer spørsmål rundt hvordan ev. intrafylkeskommunalt og interfylkeskommunalt arbeid med det tverrfaglige temaet Folkehelse og livsmestring foregår. Selv om fylkeskommunen ikke skulle ha en dedikert strategi eller dedikerte ansvarlige for dette er det ønskelig at dere blir med. Deres svar vil gjøre at vi trenger færre spørsmål til skolene, og dermed blir det mindre belastning på skolene. Undersøkelsene er nettbaserte.\nDet er også flere fordeler ved å delta.",
+    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
+    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#hva-gir-oss-rett-til-å-behandle-personopplysninger-om-deg",
+    "title": "Utdypende om personvern",
+    "section": "Hva gir oss rett til å behandle personopplysninger om deg?",
+    "text": "Hva gir oss rett til å behandle personopplysninger om deg?\nVi behandler personopplysninger basert på allmennhetens interesse, hjemlet i personvernforordningen artikkel 6, 1e. På oppdrag fra UiO har personverntjenestene ved Sikt – Kunnskapssektorens tjenesteleverandør, vurdert at behandlingen av personopplysninger i dette prosjektet er i samsvar med personvernregelverket.",
     "crumbs": [
       "For fylkeskommuner",
-      "Informasjonsskriv"
+      "Utdypende om personvern"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hvilke-andre-typer-opplysninger-blir-samlet-inn",
-    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#hvilke-andre-typer-opplysninger-blir-samlet-inn",
-    "title": "Informasjonsskriv",
-    "section": "Hvilke andre typer opplysninger blir samlet inn?",
-    "text": "Hvilke andre typer opplysninger blir samlet inn?\nFor at forskerne bedre skal forstå hvordan spørsmålene fungerer og hvordan undersøkelsen oppleves, gis det mulighet for å uttrykke seg om dette. Svar på disse spørsmålene benyttes ikke i videre forskning etter at kvalitetssikringsperioden er over. Det samles også inn teknisk prosessdata som eksempelvis type nettleser brukt, IP-adresse, og tid brukt på enkeltspørsmål og undersøkelsen totalt, som fjernes like etter undersøkelsen lukkes.",
+    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#dine-rettigheter",
+    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#dine-rettigheter",
+    "title": "Utdypende om personvern",
+    "section": "Dine rettigheter",
+    "text": "Dine rettigheter\nSå lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet www.datatilsynet.no. NIFU, UiO og UiS er felles forpliktet gjennom personvernforordningen artikkel 26 til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.",
     "crumbs": [
       "For fylkeskommuner",
-      "Informasjonsskriv"
+      "Utdypende om personvern"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#det-er-frivillig-å-delta",
-    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#det-er-frivillig-å-delta",
-    "title": "Informasjonsskriv",
-    "section": "Det er frivillig å delta",
-    "text": "Det er frivillig å delta\nDet er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som helst trekke samtykket tilbake uten å oppgi noen grunn. Alle dine personopplysninger vil da bli slettet. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta eller senere velger å trekke deg. Det er lov å hoppe over spørsmål eller avbryte besvarelsen underveis.",
+    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#spørsmål",
+    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#spørsmål",
+    "title": "Utdypende om personvern",
+    "section": "Spørsmål",
+    "text": "Spørsmål\nHvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU, UiO eller UiS:\n\n\n\nHeaLS-prosjektets epost\nheals@nifu.no\nEgil Nygaard, prosjektleder\negilny@uio.no\nHildegunn Fandrem\nhildegunn.fandrem@uis.no\n\n\nPersonvernombud NIFU\nclaes.lampi@nifu.no\nPersonvernombud UiO\npersonvernombud@uio.no\nPersonvernombud UiS\npersonvernombud@uis.no\n\n\n\nHvis du har spørsmål knyttet til Sikts vurdering av prosjektene, kan du ta kontakt på e-post: personverntjenester@sikt.no, eller på telefon: 73 98 40 40.",
     "crumbs": [
       "For fylkeskommuner",
-      "Informasjonsskriv"
+      "Utdypende om personvern"
     ]
   },
   {
-    "objectID": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#kort-om-personvern",
-    "href": "3_for_fylkeskommuner/02_fylkeskommuner_rekruttering_personvern_grunnleggende.html#kort-om-personvern",
-    "title": "Informasjonsskriv",
-    "section": "Kort om personvern",
-    "text": "Kort om personvern\nVi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket.\nDu kan lese mer utdypende om personvern her.\nMed vennlig hilsen\n\n\n\nEgil Nygaard\nCay Gjerustad\nHildegunn Fandrem\n\n\n\n\nProfessor, UiO\nForskningsleder, NIFU\nProfessor, UiS",
+    "objectID": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
+    "href": "3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html#behandlingsansvarlige-institusjoner",
+    "title": "Utdypende om personvern",
+    "section": "Behandlingsansvarlige institusjoner",
+    "text": "Behandlingsansvarlige institusjoner\n\n\n\n\n\n\n\n\nHeaLS\nHealth and Life Skills\nLIFE\n\n\nUniversitetet i Oslo\nProblemveien 11\n0313 Oslo\nNordisk institutt for studier av innovasjon, forskning og utdanning (NIFU)\nPostboks 2815 Tøyen\n0608 Oslo\nUniversitetet i Stavanger\nPostboks 8600 Forus\n4036 Stavanger",
     "crumbs": [
       "For fylkeskommuner",
-      "Informasjonsskriv"
+      "Utdypende om personvern"
     ]
   },
   {

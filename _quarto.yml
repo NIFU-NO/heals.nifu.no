@@ -1,15 +1,22 @@
 project:
   type: website
   execute-dir: project
+  post-render: "_extensions/remove_menu_links.R"
 
 website:
   title: "HeaLS og LIFE: Folkehelse og livsmestring i skolen"
   repo-url: "https://github.com/NIFU-NO/heals.nifu.no"
   repo-subdir: "_site"
   search: true
-  draft-mode: unlinked
+  draft-mode: gone
   page-navigation: true
   reader-mode: true
+  drafts:
+    - "./1_for_skoler/05_skoler_skoleleder_epost.qmd"
+    - "./1_for_skoler/06_skoler_larer_langsurvey_epost.qmd"
+    - "./1_for_skoler/07_skoler_larer_logg_epost.qmd"
+    - "./2_for_kommuner/05_skoleeier_kom_epost.qmd"
+    - "./3_for_fylkeskommuner/05_skoleeier_fyl_epost.qmd"
   navbar:
     left:
       - sidebar:news
@@ -44,7 +51,12 @@ execute:
   message: false
   cache: true
   freeze: auto
-
+format-links:
+  - html
+  - format: typst
+    text: PDF
+    icon: file-pdf
+  - docx
 fig-dpi: 800
 crossref:
  chapters: true

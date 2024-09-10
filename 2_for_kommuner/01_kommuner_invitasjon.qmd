@@ -1,5 +1,8 @@
 ---
 title: "Om prosjektene"
+format: 
+  typst: default
+  html: default
 ---
 
 {{< include "../_01_invitasjon_grunninfo_1.qmd" >}}
@@ -32,4 +35,4 @@ Du kan også lese mer om hvordan vi håndterer [personvern i informasjonsskrivet
 
 -   **Kommuner** vil få tilbakemelding på hvordan skolene i kommunen totalt sett har svart sammenlignet med resten av landet. Tilbakemeldinger til skoler og kommuner tilgjengeliggjøres på passordbeskyttede nettsider sommeren 2025.
 
-Jo flere skoler som vi vet deltar, før sommeren begynner, dess færre lærere per skole trenger vi å invitere til spørreundersøkelsene.
+Jo flere skoler som vi vet deltar, innen jul, dess færre lærere per skole trenger vi å invitere.

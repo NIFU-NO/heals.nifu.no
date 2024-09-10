@@ -6,3 +6,4 @@
 .quarto
 ./index_cache/
 /.quarto/
+.vscode/ftp-sync.json
