@@ -6,32 +6,30 @@ Vi behandler personopplysninger basert på allmennhetens interesse, hjemlet i [p
 
 ## Dine rettigheter
 
-Så lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet [www.datatilsynet.no](http://www.datatilsynet.no). NIFU, UiO og UiS er felles forpliktet gjennom [personvernforordningen artikkel 26](https://lovdata.no/lov/2018-06-15-38/gdpr/a26) til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.
+Så lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet [www.datatilsynet.no](http://www.datatilsynet.no). NIFU og UiO er felles forpliktet gjennom [personvernforordningen artikkel 26](https://lovdata.no/lov/2018-06-15-38/gdpr/a26) til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.
 
 ## Spørsmål
 
-Hvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU, UiO eller UiS:
+Hvis du har spørsmål eller vil utøve dine rettigheter, ta kontakt med NIFU eller UiO:
 
-+----------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------+
-| HeaLS-prosjektets epost                            | Egil Nygaard, prosjektleder                              | Hildegunn Fandrem                                            |
-|                                                    |                                                          |                                                              |
-| [heals\@nifu.no](mailto:heals@nifu.no)             | [egilny\@uio.no](mailto:egilny@uio.no)                   | [hildegunn.fandrem\@uis.no](mailto:hildegunn.fandrem@uis.no) |
-+----------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------+
-| Personvernombud NIFU                               | Personvernombud UiO                                      | Personvernombud UiS                                          |
-|                                                    |                                                          |                                                              |
-| [claes.lampi\@nifu.no](mailto:claes.lampi@nifu.no) | [personvernombud\@uio.no](mailto:personvernombud@uio.no) | [personvernombud\@uis.no](mailto:personvernombud@uis.no)     |
-+----------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------+
++----------------------------------------------------+----------------------------------------------------------+
+| HeaLS-prosjektets epost                            | Egil Nygaard, prosjektleder                              |
+|                                                    |                                                          |
+| [heals\@nifu.no](mailto:heals@nifu.no)             | [egilny\@uio.no](mailto:egilny@uio.no)                   |
++----------------------------------------------------+----------------------------------------------------------+
+| Personvernombud NIFU                               | Personvernombud UiO                                      |
+|                                                    |                                                          |
+| [claes.lampi\@nifu.no](mailto:claes.lampi@nifu.no) | [personvernombud\@uio.no](mailto:personvernombud@uio.no) |
++----------------------------------------------------+----------------------------------------------------------+
 
 Hvis du har spørsmål knyttet til Sikts vurdering av prosjektene, kan du ta kontakt på e-post: [personverntjenester\@sikt.no](mailto:personverntjenester@sikt.no), eller på telefon: 73 98 40 40.
 
 ## Behandlingsansvarlige institusjoner
 
-+----------------------+----------------------------------------------------------------------------+---------------------------+
-| HeaLS                | Health and Life Skills                                                     | LIFE                      |
-+----------------------+----------------------------------------------------------------------------+---------------------------+
-| Universitetet i Oslo | Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU) | Universitetet i Stavanger |
-|                      |                                                                            |                           |
-| Problemveien 11      | Postboks 2815 Tøyen                                                        | Postboks 8600 Forus       |
-|                      |                                                                            |                           |
-| 0313 Oslo            | 0608 Oslo                                                                  | 4036 Stavanger            |
-+----------------------+----------------------------------------------------------------------------+---------------------------+
++----------------------+----------------------------------------------------------------------------+
+| Universitetet i Oslo | Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU) |
+|                      |                                                                            |
+| Problemveien 11      | Postboks 2815 Tøyen                                                        |
+|                      |                                                                            |
+| 0313 Oslo            | 0608 Oslo                                                                  |
++----------------------+----------------------------------------------------------------------------+

@@ -5,7 +5,7 @@ format:
   html: default
 ---
 
-## Formålet med forskningsprosjektene Health and Life Skills (HeaLS) og LIFE
+## Formålet med undersøkelsen
 
 Vi ønsker å ha med skoleledere og utvalgte lærere i en nasjonal skoleundersøkelse om det tverrfaglige temaet [Folkehelse og livsmestring](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob). 
 

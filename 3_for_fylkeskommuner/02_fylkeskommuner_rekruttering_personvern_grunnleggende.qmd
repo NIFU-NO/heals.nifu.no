@@ -5,7 +5,7 @@ format:
   html: default
 ---
 
-## Formålet med forskningsprosjektene Health and Life Skills (HeaLS) og LIFE
+## Formålet med forskningsprosjektet HeaLS
 
 Vi ønsker å ha med fylkeskommuner som skoleeier i en nasjonal skoleforskningsstudie om det tverrfaglige temaet [Folkehelse og livsmestring](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob). 
 

@@ -2,7 +2,7 @@
   "hash": "52efc404dec432cc4f15e96dd3f10039",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Publikasjoner\"\nbibliography: references.bib\ncache: false\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\nFound 0 results \n```\n\n\n:::\n:::\n\n\n\n\n\n### Arbeider i prosjektet\n\n\n\n\n---\nnocite: '@*'\n---\n",
+    "markdown": "---\ntitle: \"Publikasjoner\"\nbibliography: references.bib\ncache: false\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\nFound 0 results \n```\n\n\n:::\n:::\n\n\n\n\n### Arbeider i prosjektet\n\n\n\n---\nnocite: '@*'\n---\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

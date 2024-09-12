@@ -1,16 +1,20 @@
 ---
-title: "Prosjektgruppen"
+title: "Deltakende institusjoner og forskere"
+
 ---
+::: {.panel-tabset}
 
-## Deltakende institusjoner i HeaLS
+## HeaLS
 
-[![Promenta, Psykologisk Institutt, Universitetet i Oslo](../_images/UiO.svg)](https://www.sv.uio.no/promenta/)
+::: {layout="[[1,1], [1,1], [1,1,1,1]]" layout-valign="bottom"}
+
+[![Promenta, Psykologisk Institutt, UiO](../_images/UiO.svg)](https://www.sv.uio.no/promenta/)
 
 [![Nordisk institutt for studier av innovasjon, forskning og utdanning](../_images/NIFU.png)](https://www.nifu.no)
 
-[![Folkehelseinstituttet](../_images/FHI.svg)](https://www.fhi.no/)
-
 [![Universitetet i Manchester](../_images/UoManchester.png)](https://www.manchester.ac.uk/)
+
+[![Folkehelseinstituttet](../_images/FHI.svg)](https://www.fhi.no/)
 
 [![Lærernes Yrkesforbund](../_images/Larernes_Yrkesforbund.png)](https://www.delta.no/yrke/laerernes-yrkesforbund)
 
@@ -18,23 +22,29 @@ title: "Prosjektgruppen"
 
 [![Skolenes landsforbund](../_images/Skolenes_landsforbund.png)](https://skoleneslandsforbund.no/)
 
-[![Nettverk for helsefremmende samfunn (fremsam, tidligere Sunne kommuner)](../_images/fremsam.png){width="10%"}](https://www.fremsam.no)
+[![Nettverk for helsefremmende samfunn (fremsam, tidligere Sunne kommuner)](../_images/fremsam.png)](https://www.fremsam.no)
 
-|     |     |     |
-|:---:|:---:|:---:|
-|[![Promenta, Psykologisk Institutt, Universitetet i Oslo](../_images/UiO.svg){width="300%"}](https://www.sv.uio.no/promenta/) |[![Nordisk institutt for studier av innovasjon, forskning og utdanning](../_images/NIFU.png)](https://www.nifu.no) |[![Folkehelseinstituttet](../_images/FHI.svg){width="300%"}](https://www.fhi.no/)|
-|[![Universitetet i Manchester](../_images/UoManchester.png){width="100%"}](https://www.manchester.ac.uk/) |[![Lærernes Yrkesforbund](../_images/Larernes_Yrkesforbund.png)](https://www.delta.no/yrke/laerernes-yrkesforbund) |[![Skolelederforbundet](../_images/Skolelederforbundet.png){width="200%"}](https://www.skolelederforbundet.no) |
-|[![Skolenes landsforbund](../_images/Skolenes_landsforbund.png){width="200%"}](https://skoleneslandsforbund.no/) |[![Nettverk for helsefremmende samfunn (fremsam, tidligere Sunne kommuner)](../_images/fremsam.png){width="30%"}](https://www.fremsam.no) |   |
+:::
 
-## Deltakende institusjoner i LIFE
-
-[![LIFE-prosjektet ved Læringsmiljøsenteret, UiS](../images/Laringsmiljosenteret.svg)](https://www.uis.no/nb/skole/life-livsmestring-i-teori-og-praksis)
-
-## Prosjektmedlemmer i HeaLS
+### Prosjektmedlemmer
 
 Se [oppdatert liste over prosjektmedlemmer](https://www.sv.uio.no/psi/english/research/projects/heals/index.html).
 
-## Prosjektmedlemmer i LIFE
+
+## LIFE
+
+::: {layout="[[2,6,2]]" layout-valign="bottom"}
+
+[![VID vitenskapelige høgskole](../_images/VID.png)](https://www.vid.no)
+
+[![LIFE-prosjektet ved Læringsmiljøsenteret, UiS](../_images/laringsmiljosenteret.svg)](https://www.uis.no/nb/skole/life-livsmestring-i-teori-og-praksis)
+
+[![Dublin City University](../_images/Dublin_City_University_Logo.svg)](https://www.dcu.ie)
+
+:::
+
+### Prosjektmedlemmer
 
 Se [oppdatert liste over prosjektmedlemmer](https://www.uis.no/nb/skole/life-livsmestring-i-teori-og-praksis).
 
+:::

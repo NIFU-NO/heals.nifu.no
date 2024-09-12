@@ -6,8 +6,10 @@ format:
   docx: default
 ---
 
-{{< include "_00_skoler_epost_1.qmd" >}}
+{{< include "_00_larer_epost_1.qmd" >}}
 
 Vi har ved din skole trukket ut deg til å bli invitert til en spørreundersøkelse som tar 15-20 minutter. 
 
-{{< include "_00_skoler_epost_2.qmd" >}}
+Din skoleledelse vil ikke få vite dine svar eller om du har svart. 
+
+{{< include "_00_larer_epost_2.qmd" >}}

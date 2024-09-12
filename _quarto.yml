@@ -12,15 +12,16 @@ website:
   page-navigation: true
   reader-mode: true
   drafts:
-    - "./1_for_skoler/05_skoler_skoleleder_epost.qmd"
-    - "./1_for_skoler/06_skoler_larer_langsurvey_epost.qmd"
-    - "./1_for_skoler/07_skoler_larer_logg_epost.qmd"
-    - "./2_for_kommuner/05_skoleeier_kom_epost.qmd"
-    - "./3_for_fylkeskommuner/05_skoleeier_fyl_epost.qmd"
+    - "./1_for_skoler/10_skoleleder_epost.qmd"
+    - "./1_for_larere/10_larer_epost_lang.qmd"
+    - "./1_for_larere/10_larer_epost_logg.qmd"
+    - "./2_for_kommuner/10_skoleeier_kom_epost.qmd"
+    - "./3_for_fylkeskommuner/10_skoleeier_fyl_epost.qmd"
   navbar:
     left:
       - sidebar:news
       - sidebar:schools
+#      - sidebar:teachers
       - sidebar:municipalities
       - sidebar:counties
       - sidebar:researchers
@@ -29,6 +30,9 @@ website:
     - id: news
       title: "Nyheter"
       contents: 0_nyheter
+#    - id: teachers
+#      title: "For inviterte respondenter"
+#      contents: 1_for_larere
     - id: schools
       title: "For skoler"
       contents: 1_for_skoler
@@ -39,8 +43,11 @@ website:
       title: "For fylkeskommuner"
       contents: 3_for_fylkeskommuner
     - id: researchers
-      title: "Mer om prosjektet"
-      contents: 5_for_forskere
+      title: "Mer om prosjektene"
+      contents: 
+      - 5_for_forskere/08_prosjektgruppen.qmd
+      - 5_for_forskere/09_finansiering.qmd
+      - 5_for_forskere/07_publikasjoner.qmd
     - id: presentation
       title: "PowerPoint-presentasjon"
       contents: kort_presentasjon
@@ -81,9 +88,7 @@ tbl-cap-location: top
 csl: 5_for_forskere/style.csl
 
 lang: "nb"
-license: "CC BY 4.0"
 format:
-  # typst: default
   html:
     mainfont: "Calibri"
     fontsize: "10.5"

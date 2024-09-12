@@ -8,6 +8,6 @@ format:
 
 {{< include "_00_skoleeier_kom_epost_1.qmd" >}}
 
-Vi inviterer deg som representant for skoleier ved kommunen til en spørreundersøkelse som tar 20-25 minutter. 
+Vi inviterer derfor deg som representant for skoleier ved kommunen til en spørreundersøkelse som tar 20-25 minutter. 
 
 {{< include "_00_skoleeier_kom_epost_2.qmd" >}}
