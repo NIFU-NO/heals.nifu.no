@@ -9,10 +9,10 @@ format:
 
 I gjennomføring av spørreundersøkelsen 2025 vil epostadresse, skolenavn og fornavn bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles inn av NIFU med surveysystemet [Qualtrics](https://www.qualtrics.com/gdpr/). 
 
-{{< include "../_03_rekruttering_personvern_utdypende_1.qmd" >}}
+{{< include "../_03_utdypende_1.qmd" >}}
 
 ## Hvorfor får du/dere spørsmål om å delta?
 
 Din skole får denne forespørselen fordi vi kontakter alle grunnskoler og videregående skoler i Norge. Det er behov for ekstra mange skoler i denne studien for å få nok data til å oppdage variasjon mellom skoler. 
 
-{{< include "../_03_rekruttering_personvern_utdypende_inst.qmd" >}}
+{{< include "../_03_utdypende_inst.qmd" >}}

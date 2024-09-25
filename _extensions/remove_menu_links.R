@@ -1,5 +1,5 @@
 fs::dir_ls(path = "_site", type = "file", regexp = "\\.html", recurse = TRUE) |>
-    stringr::str_subset(pattern = "-NIFU-R91188BK\\.html") |>
+    stringr::str_subset(pattern = "-NIFU-R91188BK.*\\.html") |>
     fs::file_delete()
 
 Sys.sleep(30)

@@ -1,0 +1,77 @@
+---
+format: html
+number-sections: true
+title: "Eksempel"
+freeze: false
+cache: false
+---
+
+# Eksempel på tilbakemeldinger for en skole
+
+::: {.callout-important title=""}
+Dette er et eksempel på hvordan skolespesifikke (og/eller (fylkes)kommunespesifikke) tilbakemeldinger vil se ut. 
+
+*Hver skole vil få brukernavn/passord til sine egne sider.*
+:::
+
+## Hva er dine tanker og erfaringer med folkehelse og livsmestring som tverrfaglig tema
+
+```{r}
+#| label: example
+#| output: asis
+#| panel: tabset
+
+source("../../../Metode - General/SAROS-core/shared resources/nifu_global_general_formatting.R")
+prelabel <- "Hva er dine tanker og erfaringer med folkehelse og livsmestring som tverrfaglig tema? Folkehelse og livsmestring - "
+plots <-
+    ex_survey |>
+    tibble::as_tibble() |>
+    dplyr::mutate(
+        dplyr::across(p_1:p_4, ~ forcats::fct_recode(.x,
+            "Helt uenig" = "Strongly disagree",
+            "Litt uenig" = "Somewhat disagree",
+            "Litt enig" = "Somewhat agree",
+            "Helt enig" = "Strongly agree"
+        )),
+        f_uni = dplyr::case_when(f_uni == "Uni of A" ~ "Galtvort skule",
+            .default = f_uni
+        ),
+        f_uni = stringr::str_replace_all(f_uni, pattern = "Uni of ", replacement = "Skole ")
+    ) |>
+    labelled::set_variable_labels( 
+        p_1 = paste0(prelabel, "gjør undervisningen mer relevant og interessant for elevene"),
+        p_2 = paste0(prelabel, "gjør at jeg kan koblet innholdet i undervisningen tettere til elevenes hverdagserfaringer"),
+        p_3 = paste0(prelabel, "er lite relevant for akkurat dette faget"),
+        p_4 = paste0(prelabel, "bidrar til bedre relasjoner mellom elevene og meg")
+    ) |>
+    saros::makeme(dep = p_1:p_2, mesos_var = "f_uni", mesos_group = "Galtvort skule", crowd = c("target", "others"),
+    sort_by = ".variable_name")
+names(plots) <- c("Galtvort skule", "Alle andre")
+if (!all(sapply(plots, is.null))) { 
+    lapply(names(plots), function(.x) { 
+        knitr::knit_child(text = c(
+    "##### `r .x`",
+    "```{r}",
+    "library(saros)",
+    "source('../../../Metode - General/SAROS-core/shared resources/nifu_global_general_formatting.R')",
+    "knitr::opts_template$set(fig = list(fig.height = fig_height_h_barchart2(plots[[.x]])*1))",
+    "```",
+    "",
+    "```{r, opts.label='fig'}",
+    "library(ggplot2)",
+    "library(ggiraph)",
+    "nrange <- stringi::stri_c('N = ', n_range2(plots[[.x]]))",
+    "link <- make_link(data = plots[[.x]]$data)",
+    "link_plot <- make_link(data = plots[[.x]], link_prefix='[PNG](', file_suffix = '.png', save_fn = ggsaver)",
+    "x <- I(paste0(c(nrange, link, link_plot), collapse=', '))",
+    "girafe(ggobj = plots[[.x]])",
+    "```",
+    "",
+    "`r x`",
+    ""
+), envir = environment(), quiet = TRUE) 
+}) |>
+    unlist() |>
+    cat(sep = "\n")
+}
+```

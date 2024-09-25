@@ -7,3 +7,10 @@
 ./index_cache/
 /.quarto/
 .vscode/ftp-sync.json
+/*.xlsx
+/*.png
+/*.html
+/[0-9]_*/**/.html
+_LESMEG.docx
+kort_presentasjon/kort_infovideo.m4v
+_site/kort_presentasjon/kort_infovideo.m4v

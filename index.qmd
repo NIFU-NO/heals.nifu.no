@@ -9,15 +9,17 @@ callout-icon: false
 
 ::: {.callout-note title="Ønsker din skole å bli med?"}
 
-Om dere ikke finner vår invitasjonsepost, trykk [her for en ferdigutfylt epost](mailto:heals@nifu.no?subject=Vi%20vil%20gjerne%20delta&body=Hei,%0Avi%20er%20interesserte%20i%20prosjektet%20og%20vil%20gjerne%20motta%20påmeldingsinformasjon.%0A%0AHilsen%20SKOLENAVN) som enkelt kan sendes oss.
+Representant for skoleledelse kan [klikke her](https://nifueu.qualtrics.com/jfe/form/SV_aaDR9MONUSCYHz0) for å melde interesse.
+
+Om skoleeier ikke har mottatt epost, [trykk her for en ferdigutfylt epost](mailto:heals@nifu.no?subject=Vi%20vil%20gjerne%20delta&body=Hei,%0Avi%20er%20interesserte%20i%20prosjektet%20og%20vil%20gjerne%20motta%20påmeldingsinformasjon.%0A%0AHilsen%20KOMMUNE) som enkelt kan sendes oss.
 
 Se også sidene i menyen ovenfor for informasjon om hva deltakelse innebærer for dere.
 
-Til dere som mottok invitasjon fra HeaLS i våres: Datainnsamling ble utsatt for at HeaLS og LIFE skulle kunne samarbeide om datainnsamlingen.
+Til dere som mottok invitasjon fra HeaLS i våres: Datainnsamling ble utsatt for at [HeaLS](https://www.sv.uio.no/psi/english/research/projects/heals/index.html) og [LIFE](https://www.uis.no/nb/laeringsmiljosenteret/forskning/life-livsmestring-i-teori-og-praksis) skulle kunne samarbeide om datainnsamlingen.
 
 :::
 
-![](_images/illustration_1.png){width=40%}
+{{< video kort_presentasjon/kort_infovideo.m4v >}}
 
 :::
 

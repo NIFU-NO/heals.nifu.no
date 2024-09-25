@@ -9,16 +9,7 @@ format:
 
 Vi ønsker å ha med skoleledere og utvalgte lærere i en nasjonal skoleundersøkelse om det tverrfaglige temaet [Folkehelse og livsmestring](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob). 
 
-{{< include "../_02_rekruttering_personvern_grunnleggende_1.qmd" >}}
-
-## Hva innebærer det for skoler å delta?
-
-Deltakelse innebærer for skoleleder å besvare en spørreundersøkelse (15-20 min) februar 2025. Lærerne vil samtidig bli invitert til å delta i enten
-
-1.  en spørreundersøkelse (15 min), eller
-2.  først et svært kort skjema (3 min) og deretter en loggaktivitet før og etter 4 undervisningsøkter. Loggene vil ta omtrent 2 minutter hver gang.
-
-Lærerne trekkes ut til en av disse to fra en liste over alle lærerne som vi mottar fra dere. Antallet som faktisk blir trukket ut vil avhenge av hvor mange skoler som deltar – dess flere skoler som deltar, dess færre lærere per skole blir inviterte. Likevel vil vi aldri invitere flere enn 20 lærere ved en skole som har flere lærere enn dette, og vi inviterer kun så mange vi trenger. Undersøkelsene er nettbaserte og fungerer godt på mobiltelefon.
+{{< include "../_02_infoskriv_1.qmd" >}}
 
 Det er også flere [fordeler](01_skoler_invitasjon.qmd) ved å delta.
 
@@ -38,8 +29,8 @@ I tillegg til dine svar på spørsmålene samler vi inn:
 
 *Prosessdata*: For at forskerne bedre skal forstå hvordan spørsmålene fungerer og hvordan undersøkelsen oppleves, gis det mulighet for å uttrykke seg om dette. Svar på disse spørsmålene benyttes ikke i videre forskning etter at kvalitetssikringsperioden er over. Det samles også inn teknisk prosessdata som eksempelvis type nettleser brukt, IP-adresse, og tid brukt på enkeltspørsmål og undersøkelsen totalt, som fjernes like etter undersøkelsen lukkes.
 
-{{< include "../_02_rekruttering_personvern_grunnleggende_2.qmd" >}}
+{{< include "../_02_infoskriv_2.qmd" >}}
 
 Du kan lese [mer utdypende om personvern her](03_skoler_rekruttering_personvern_utdypende.qmd).
 
-{{< include "../_02_rekruttering_personvern_grunnleggende_sign.qmd" >}}
+{{< include "../_02_infoskriv_sign.qmd" >}}

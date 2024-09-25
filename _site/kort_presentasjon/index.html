@@ -41,6 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,12 +70,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Søk"
   }
 }</script>
-<script async="" src="https://hypothes.is/embed.js"></script>
-<script>
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    document.body.classList.add('hypothesis-enabled');
-  });
-</script>
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -113,11 +109,11 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-for-skoler" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">For skoler</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-for-skoleledere" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">For skoleledere</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-for-skoler">    
-        <li class="dropdown-header">For skoleledere</li>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-for-skoleledere">    
+        <li class="dropdown-header">Rekruttering av skoler</li>
         <li>
     <a class="dropdown-item" href="../1_for_skoler/01_skoler_invitasjon.html">
  <span class="dropdown-text">Om prosjektene</span></a>
@@ -134,13 +130,17 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../1_for_skoler/04_skoler_osp.html">
  <span class="dropdown-text">Kun to ting må til for at skolen deres kan delta</span></a>
   </li>  
-            </ul>
+        <li>
+    <a class="dropdown-item" href="../1_for_skoler/90_tilbakemeldinger/10_tilbakemeldinger.html">
+ <span class="dropdown-text">Skolespesifikke tilbakemeldinger</span></a>
+  </li>  
+    </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-for-kommuner" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">For kommuner</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-for-skoleeiere" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">For skoleeiere</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-for-kommuner">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-for-skoleeiere">    
         <li class="dropdown-header">For kommuner</li>
         <li>
     <a class="dropdown-item" href="../2_for_kommuner/01_kommuner_invitasjon.html">
@@ -154,13 +154,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.html">
  <span class="dropdown-text">Utdypende om personvern</span></a>
   </li>  
-            </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-for-fylkeskommuner" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">For fylkeskommuner</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-for-fylkeskommuner">    
+        <li><hr class="dropdown-divider"></li>
         <li class="dropdown-header">For fylkeskommuner</li>
         <li>
     <a class="dropdown-item" href="../3_for_fylkeskommuner/01_fylkeskommuner_invitasjon.html">
@@ -174,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../3_for_fylkeskommuner/03_fylkeskommuner_rekruttering_personvern_utdypende.html">
  <span class="dropdown-text">Utdypende om personvern</span></a>
   </li>  
-            </ul>
+    </ul>
   </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-mer-om-prosjektene" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -189,19 +183,20 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../5_for_forskere/09_finansiering.html">
  <span class="dropdown-text">Finansiering</span></a>
   </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-powerpoint-presentasjon" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">PowerPoint-presentasjon</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-powerpoint-presentasjon">    
         <li>
-    <a class="dropdown-item" href="../kort_presentasjon/index.html">
- <span class="dropdown-text">Kort presentasjon</span></a>
+    <a class="dropdown-item" href="../5_for_forskere/07_publikasjoner.html">
+ <span class="dropdown-text">Publikasjoner</span></a>
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="../kort_presentasjon/index.html" aria-current="page"> 
+<span class="menu-text">Kort presentasjon</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../kontakt_oss.html"> 
+<span class="menu-text">Kontakt oss</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -219,8 +214,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">På denne siden</h2>
+   
+  <ul>
+  <li><a href="#for-skoleledere-og-skoleeiere" id="toc-for-skoleledere-og-skoleeiere" class="nav-link active" data-scroll-target="#for-skoleledere-og-skoleeiere">For skoleledere og skoleeiere</a></li>
+  <li><a href="#for-intern-bruk-på-skoler" id="toc-for-intern-bruk-på-skoler" class="nav-link" data-scroll-target="#for-intern-bruk-på-skoler">For intern bruk på skoler</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -244,10 +246,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Last ned en kort presentasjon av HeaLS og LIFE-prosjektene for intern formidling: <a href="kort_presentasjon.pptx">PPTX</a>.</p>
+<section id="for-skoleledere-og-skoleeiere" class="level2">
+<h2 class="anchored" data-anchor-id="for-skoleledere-og-skoleeiere">For skoleledere og skoleeiere</h2>
+<p>Presentasjon fra informasjonsmøte for skoleledere og skoleeiere: <a href="infomote_skoleleder_skoleeier.pptx">PPTX</a> / <a href="infomote_skoleleder_skoleeier.pdf">PDF</a>.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="kort_infovideo.m4v"></video></div>
+</section>
+<section id="for-intern-bruk-på-skoler" class="level2">
+<h2 class="anchored" data-anchor-id="for-intern-bruk-på-skoler">For intern bruk på skoler</h2>
+<p>En kort presentasjon av HeaLS og LIFE-prosjektene for intern formidling: <a href="kort_presentasjon.pptx">PPTX</a>.</p>
 <p>Presentasjonen inneholder ekstra notater for de som ønsker mer informasjon.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -820,6 +830,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     document.querySelectorAll("figcaption").forEach(e => {e.innerHTML = e.innerHTML.replace(/^(Figur&nbsp;\d+)/, "<strong>$1</strong>")})
   });
 </script>
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 

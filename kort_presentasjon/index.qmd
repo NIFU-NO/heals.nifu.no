@@ -3,6 +3,12 @@ title: "Kort presentasjon"
 sidebar: false
 ---
 
-Last ned en kort presentasjon av HeaLS og LIFE-prosjektene for intern formidling: [PPTX](kort_presentasjon.pptx).
+## For skoleledere og skoleeiere
+Presentasjon fra informasjonsmøte for skoleledere og skoleeiere: [PPTX](infomote_skoleleder_skoleeier.pptx) / [PDF](infomote_skoleleder_skoleeier.pdf).
+
+{{< video kort_infovideo.m4v >}}
+
+## For intern bruk på skoler
+En kort presentasjon av HeaLS og LIFE-prosjektene for intern formidling: [PPTX](kort_presentasjon.pptx).
 
 Presentasjonen inneholder ekstra notater for de som ønsker mer informasjon. 

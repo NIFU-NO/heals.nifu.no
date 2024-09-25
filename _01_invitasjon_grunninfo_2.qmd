@@ -1,7 +1,7 @@
 To forskningsprosjekter samarbeider om undersøkelser om disse temaene og vil dele innsamlet informasjon med hverandre:  
 
--	HeaLS ledes av UiO, og gjennomføres i samarbeid med NIFU. UiO og NIFU har ansvar for en spørreundersøkelse ca i februar 2025.
+-	[HeaLS](https://www.sv.uio.no/psi/english/research/projects/heals/index.html) ledes av UiO, og gjennomføres i samarbeid med NIFU. UiO og NIFU har ansvar for en spørreundersøkelse ca i februar 2025.
 
--	LIFE ledes av Læringsmiljøsenteret ved UiS. UiS har ansvar for en oppfølgingsundersøkelse ca et år senere.
+-	[LIFE](https://www.uis.no/nb/laeringsmiljosenteret/forskning/life-livsmestring-i-teori-og-praksis) ledes av Læringsmiljøsenteret ved UiS. UiS har ansvar for en oppfølgingsundersøkelse ca et år senere.
 
 Samarbeidet har som mål å redusere belastningen på skolesektoren og få mer ut av datainnsamlingen.

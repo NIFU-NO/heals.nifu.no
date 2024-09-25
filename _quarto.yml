@@ -12,45 +12,39 @@ website:
   page-navigation: true
   reader-mode: true
   drafts:
-    - "./1_for_skoler/10_skoleleder_epost.qmd"
-    - "./1_for_larere/10_larer_epost_lang.qmd"
-    - "./1_for_larere/10_larer_epost_logg.qmd"
-    - "./2_for_kommuner/10_skoleeier_kom_epost.qmd"
-    - "./3_for_fylkeskommuner/10_skoleeier_fyl_epost.qmd"
+    - "./1_for_inviterte/01_epost.qmd"
+    - "./1_for_inviterte/02_infoskriv.qmd"
+    - "./1_for_inviterte/03_utdypende.qmd"
   navbar:
     left:
       - sidebar:news
+#      - sidebar:invitees
       - sidebar:schools
-#      - sidebar:teachers
-      - sidebar:municipalities
-      - sidebar:counties
+      - sidebar:schoolowners
       - sidebar:researchers
-      - sidebar:presentation
+      - kort_presentasjon/index.qmd
+      - kontakt_oss.qmd
   sidebar: 
     - id: news
       title: "Nyheter"
       contents: 0_nyheter
-#    - id: teachers
+#    - id: invitees
 #      title: "For inviterte respondenter"
-#      contents: 1_for_larere
+#      contents: 1_for_inviterte
     - id: schools
-      title: "For skoler"
+      title: "For skoleledere"
       contents: 1_for_skoler
-    - id: municipalities
-      title: "For kommuner"
-      contents: 2_for_kommuner
-    - id: counties
-      title: "For fylkeskommuner"
-      contents: 3_for_fylkeskommuner
+    - id: schoolowners
+      title: "For skoleeiere"
+      contents: 
+      - auto: "2_for_kommuner"
+      - auto: "3_for_fylkeskommuner"
     - id: researchers
       title: "Mer om prosjektene"
       contents: 
       - 5_for_forskere/08_prosjektgruppen.qmd
       - 5_for_forskere/09_finansiering.qmd
-      - 5_for_forskere/07_publikasjoner.qmd
-    - id: presentation
-      title: "PowerPoint-presentasjon"
-      contents: kort_presentasjon
+      - 5_for_forskere/07_publikasjoner.rmd
   site-url: "heals.nifu.no"
 execute:
   echo: false
@@ -99,7 +93,7 @@ format:
     css: "styles.css"
     toc: true
     comments:
-      hypothesis: true
+      hypothesis: false
     include-after-body:
       text: |
         <script>

@@ -9,7 +9,7 @@ format:
 
 Vi ønsker å ha med kommuner som skoleeier i en nasjonal skoleforskningsstudie om det tverrfaglige temaet [Folkehelse og livsmestring](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob). 
 
-{{< include "../_02_rekruttering_personvern_grunnleggende_1.qmd" >}}
+{{< include "../_02_infoskriv_1.qmd" >}}
 
 ## Hva innebærer det for kommunen å delta?
 
@@ -19,8 +19,8 @@ Deltakelse innebærer at en representant for kommunen besvarer en spørreunders�
 
 For at forskerne bedre skal forstå hvordan spørsmålene fungerer og hvordan undersøkelsen oppleves, gis det mulighet for å uttrykke seg om dette. Svar på disse spørsmålene benyttes ikke i videre forskning etter at kvalitetssikringsperioden er over. Det samles også inn teknisk prosessdata som eksempelvis type nettleser brukt, IP-adresse, og tid brukt på enkeltspørsmål og undersøkelsen totalt, som fjernes like etter undersøkelsen lukkes.
 
-{{< include "../_02_rekruttering_personvern_grunnleggende_2.qmd" >}}
+{{< include "../_02_infoskriv_2.qmd" >}}
 
 Du kan lese [mer utdypende om personvern her](../2_for_kommuner/03_kommuner_rekruttering_personvern_utdypende.qmd).
 
-{{< include "../_02_rekruttering_personvern_grunnleggende_sign.qmd" >}}
+{{< include "../_02_infoskriv_sign.qmd" >}}

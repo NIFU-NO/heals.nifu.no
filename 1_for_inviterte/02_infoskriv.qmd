@@ -1,0 +1,62 @@
+---
+title: "Informasjonsskriv"
+format: 
+  typst: default
+  html: default
+  docx: default
+---
+
+
+## Formålet med undersøkelsen
+
+Vi ønsker å ha med utvalgte lærere, skoleledere og skoleeiere i en nasjonal skoleundersøkelse om det tverrfaglige temaet [Folkehelse og livsmestring](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob). 
+
+Målet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme *Folkehelse og livsmestring* gjennom undervisningen og andre aktiviteter på skolen.
+
+## Hvem er ansvarlig for undersøkelsen?
+
+*HeaLS* ledes av [Psykologisk institutt ved UiO](https://www.sv.uio.no/psi/english/research/projects/heals/index.html), mens [NIFU](https://www.nifu.no) har hovedansvar for datainnsamlingen som vil skje ca. i februar 2025. UiO og NIFU har felles databehandleransvar, men kun NIFU håndterer personidentifiserende opplysninger relatert til datainnsamlingen. LIFE-prosjektet ved UiS vil invitere til en oppfølgingsundersøkelse et år etterpå.
+
+## Hva innebærer det for deg å delta?
+
+Deltakelse innebærer for deg en av følgende (se epost om hva som gjelder deg):
+
+- ***Lærere***: Vi har trukket ut deg til å bli invitert til en spørreundersøkelse som tar 15-20 minutter. 
+
+- ***Lærere***: Vi har trukket ut deg til å bli invitert til en veldig kort spørreundersøkelse (3-5 minutter) og en kort logg (2 minutter) etter fire undervisningsøkter. Læreres logger vil gi oss innblikk i hvordan temaet undervises på tvers av ulike kontekster, slik som fag, slik at vi kan finne ut hva som fungerer og ikke.
+
+- ***Skoleleders representant***: Vi inviterer deg som representant for skoleledelsen til en spørreundersøkelse som tar 15-20 minutter. 
+
+- ***Skoleeiers representant***: Vi inviterer deg som representant for skoleeier til en spørreundersøkelse som tar 20-25 minutter. 
+
+Det er flere [fordeler](10_larer_lang_epost.qmd) ved å delta. Verken din arbeidsgiver eller andre får vite dine svar eller om du har svart. Undersøkelsene er nettbaserte og fungerer godt på mobiltelefon.
+
+## Hvorfor inviterer vi deg?
+
+Du er trukket ut fra lister over lærere, skoleledere og skoleeiere, innsamlet fra skolen/kommunen/fylkeskommunen du tilhører. Vi har mottatt kontaktinformasjonen basert på hjemmel i personopplysningsloven. Vi inviterer kun så mange som vi trenger. 
+
+## Hva spør vi om i spørreundersøkelsene?
+
+Du vil få spørsmål rundt hvordan du og dere jobber med det tverrfaglige temaet *Folkehelse og livsmestring*, samt om samarbeid, praksis, holdninger og mestringstro knyttet til temaet. Vi vil også spørre deg om noe bakgrunnsopplysninger, slik som kjønn, erfaring og alder.
+
+## Hvilke andre typer opplysninger blir samlet inn?
+
+*Prosessdata*: For at forskerne bedre skal forstå hvordan spørsmålene fungerer og hvordan undersøkelsen oppleves, gis det mulighet for å uttrykke seg om dette. Svar på disse spørsmålene benyttes ikke i videre forskning etter at kvalitetssikringsperioden er over. Det samles også inn teknisk prosessdata som eksempelvis type nettleser brukt, IP-adresse, og tid brukt på enkeltspørsmål og undersøkelsen totalt, som fjernes like etter undersøkelsen lukkes.
+
+## Det er frivillig å delta
+
+Det er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som helst trekke samtykket tilbake uten å oppgi noen grunn. Alle dine personopplysninger vil da bli slettet. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta eller senere velger å trekke deg. Det er lov å hoppe over spørsmål eller avbryte besvarelsen underveis.
+
+## Kort om personvern
+
+Vi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. 
+
+Du kan lese [mer utdypende om personvern her](03_utdypende.qmd).
+
+
+Med vennlig hilsen
+
+| Egil Nygaard       | Cay Gjerustad         | Hildegunn Fendrem |
+|--------------------|-----------------------|-------------------|
+| Professor, UiO     | Forskningsleder, NIFU | Professor, UiS    |
+
