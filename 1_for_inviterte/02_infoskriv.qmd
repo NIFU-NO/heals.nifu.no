@@ -1,5 +1,6 @@
 ---
 title: "Informasjonsskriv"
+subtitle: "(samme går til alle fire målgruppene)"
 format: 
   typst: default
   html: default
@@ -11,11 +12,15 @@ format:
 
 Vi ønsker å ha med utvalgte lærere, skoleledere og skoleeiere i en nasjonal skoleundersøkelse om det tverrfaglige temaet [Folkehelse og livsmestring](https://www.udir.no/lk20/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/?lang=nob). 
 
-Målet med studien er å samle inn informasjon fra skolene for å studere hva som skal til for å lykkes med å fremme *Folkehelse og livsmestring* gjennom undervisningen og andre aktiviteter på skolen.
+Formålet med undersøkelsen er å utvikle kunnskap om
+•	Hvordan forstås, implementeres og praktiseres temaet folkehelse og livsmestring?
+•	Hvilken effekt har ulike måter å utføre temaet folkehelse og livsmestring; hva fungerer bra og dårlig, og for hvem?
+
+Over tid ønsker vi å finne ut hvordan styrke elevenes sosiale miljø, prestasjoner, livsmestring, psykiske helse og forhindre frafall.
 
 ## Hvem er ansvarlig for undersøkelsen?
 
-*HeaLS* ledes av [Psykologisk institutt ved UiO](https://www.sv.uio.no/psi/english/research/projects/heals/index.html), mens [NIFU](https://www.nifu.no) har hovedansvar for datainnsamlingen som vil skje ca. i februar 2025. UiO og NIFU har felles databehandleransvar, men kun NIFU håndterer personidentifiserende opplysninger relatert til datainnsamlingen. LIFE-prosjektet ved UiS vil invitere til en oppfølgingsundersøkelse et år etterpå.
+*HeaLS* ledes av [Psykologisk institutt ved UiO](https://www.sv.uio.no/psi/english/research/projects/heals/index.html), mens [NIFU](https://www.nifu.no) har hovedansvar for datainnsamlingen som vil skje ca. i februar 2025. UiO og NIFU har felles databehandleransvar, men kun NIFU håndterer personidentifiserende opplysninger relatert til datainnsamlingen. [LIFE-prosjektet](https://www.uis.no/nb/laeringsmiljosenteret/forskning/life-livsmestring-i-teori-og-praksis) ved UiS vil invitere til en oppfølgingsundersøkelse et år etterpå.
 
 ## Hva innebærer det for deg å delta?
 
@@ -45,13 +50,13 @@ Du vil få spørsmål rundt hvordan du og dere jobber med det tverrfaglige temae
 
 ## Det er frivillig å delta
 
-Det er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som helst trekke samtykket tilbake uten å oppgi noen grunn. Alle dine personopplysninger vil da bli slettet. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta eller senere velger å trekke deg. Det er lov å hoppe over spørsmål eller avbryte besvarelsen underveis.
+Det er frivillig å delta i prosjektet. Hvis du velger å delta, kan du når som helst trekke samtykket tilbake uten å oppgi noen grunn. Alle dine personopplysninger vil da bli slettet. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta eller senere velger å trekke deg. Det er mulig å hoppe over spørsmål, såfremt ikke annet står ved spørsmålet, eller avbryte besvarelsen underveis.
 
 ## Kort om personvern
 
-Vi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. 
+Vi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet og i [utdypende informasjon om personvern](03_utdypende.qmd). Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. 
 
-Du kan lese [mer utdypende om personvern her](03_utdypende.qmd).
+Du kan lese [utdypende informasjon om personvern her](03_utdypende.qmd).
 
 
 Med vennlig hilsen

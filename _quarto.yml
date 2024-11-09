@@ -1,36 +1,27 @@
+profile:
+  default: staging
 project:
   type: website
   execute-dir: project
-  post-render: "_extensions/remove_menu_links.R"
 
 website:
   title: "HeaLS og LIFE: Folkehelse og livsmestring i skolen"
   repo-url: "https://github.com/NIFU-NO/heals.nifu.no"
-  repo-subdir: "_site"
   search: true
-  draft-mode: gone
   page-navigation: true
   reader-mode: true
   drafts:
     - "./1_for_inviterte/01_epost.qmd"
     - "./1_for_inviterte/02_infoskriv.qmd"
     - "./1_for_inviterte/03_utdypende.qmd"
-  navbar:
-    left:
-      - sidebar:news
-#      - sidebar:invitees
-      - sidebar:schools
-      - sidebar:schoolowners
-      - sidebar:researchers
-      - kort_presentasjon/index.qmd
-      - kontakt_oss.qmd
+
   sidebar: 
     - id: news
       title: "Nyheter"
       contents: 0_nyheter
-#    - id: invitees
-#      title: "For inviterte respondenter"
-#      contents: 1_for_inviterte
+    - id: invitees
+      title: "For inviterte respondenter"
+      contents: 1_for_inviterte
     - id: schools
       title: "For skoleledere"
       contents: 1_for_skoler
@@ -45,13 +36,14 @@ website:
       - 5_for_forskere/08_prosjektgruppen.qmd
       - 5_for_forskere/09_finansiering.qmd
       - 5_for_forskere/07_publikasjoner.rmd
+      - 5_for_forskere/10_medier.qmd
   site-url: "heals.nifu.no"
 execute:
   echo: false
   warning: false
   message: false
-  cache: true
-  freeze: auto
+  cache: false
+  freeze: false
 format-links:
   - html
   - format: typst
@@ -92,8 +84,6 @@ format:
       dark: darkly
     css: "styles.css"
     toc: true
-    comments:
-      hypothesis: false
     include-after-body:
       text: |
         <script>

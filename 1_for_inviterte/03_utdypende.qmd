@@ -1,28 +1,31 @@
 ---
 title: "Utdypende om personvern"
+subtitle: "(samme informasjon gis alle respondenter)"
 format: 
   typst: default
   html: default
   docx: default
 ---
 
-## Hvordan vi oppbevarer og bruker dine opplysninger
-
-I gjennomføring av spørreundersøkelsen 2025 vil epostadresse, fornavn og navn på virksomheten du er ansatt ved (f.eks. skole, kommune, fylkeskommune) bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles inn av NIFU med surveysystemet [Qualtrics](https://www.qualtrics.com/gdpr/). 
-
-Data vil så bli overført til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Alle opplysninger og svar blir lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, ved NIFU, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data. 
-
-UiS planlegger en lignende spørreundersøkelse som vil fungere som oppfølgingsstudie. Ny invitasjon og samtykkeskriv vil bli sendt ut på nytt til de samme utvalgene da dette er separate prosjekter.
-
-Koblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. De avidentifiserte dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Avidentifiserte data fra spørreundersøkelsene, uten påkoblet registerdata (se neste avsnitt), vil tilgjengeliggjøres, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. [Open Science Foundation](osf.io).
-
-Avidentifiserte innsamlede data fra spørreundersøkelsene oversendes UiO. UiO kobler disse på skolenivå med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Disse koblede dataene behandles og oppbevares i [Tjenester for Sensitive Data (TSD)](https://www.uio.no/tjenester/it/forskning/sensitiv/), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun [forskere i prosjektet](https://www.sv.uio.no/psi/english/research/projects/heals/index.html) har tilgang, da kun til avidentifiserte data.
-
 ## Hvorfor får du spørsmål om å delta?
 
-Du får denne forespørselen fordi vi kontakter utvalgte lærere og skoleleders representant ved alle norske grunnskoler og videregående skoler, og en representant ved alle skoleeiere. Det er behov for ekstra mange enheter i denne studien for å få nok data til å oppdage variasjon mellom skoler og skoleeiere. Vi har derimot kun behov for at et minimum antall lærere ved hver skole deltar.
+Du får denne forespørselen fordi vi kontakter utvalgte lærere og skoleleders representant ved alle norske grunnskoler og videregående skoler, og en representant ved alle skoleeiere. Det er behov for ekstra mange skoler i denne studien for å få nok data til å oppdage variasjon mellom skoler og mellom skoleeiere. 
 
-Vi har innhentet kontaktinformasjon til skolene fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i [personvernforordningen artikkel 6, 1e](https://lovdata.no/lov/2018-06-15-38/gdpr/a6). Kontaktinformasjon til lærere er innhentet fra deltakende skoler.
+Vi har innhentet kontaktinformasjon til skolene fra offentlige nettsider eller basert på eksisterende kommunikasjon med dere i Spørringene (GSI), med grunnlag i [personvernforordningen artikkel 6, 1e](https://lovdata.no/lov/2018-06-15-38/gdpr/a6) og [personopplysningsloven § 8](https://lovdata.no/lov/2018-06-15-38/§8). Kontaktinformasjon til lærere er innhentet fra deltakende skoler.
+
+## Hvordan vi oppbevarer og bruker dine opplysninger
+
+I gjennomføring av spørreundersøkelsen vil epostadresse, fornavn og navn på virksomheten du er ansatt ved (f.eks. skole, kommune, fylkeskommune) bli midlertidig lagret på en datalagringstjeneste i Tyskland mens dataene innsamles av NIFU med surveysystemet [Qualtrics](https://www.qualtrics.com/gdpr/). 
+
+Data vil så bli flyttet til NIFU i Norge der teknisk informasjon som IP-adresse og nettleser fjernes. Ved NIFU blir alle opplysninger og svar lagret sikkert og behandlet konfidensielt i tråd med personopplysningsloven, med datalagringstjeneste fra Microsoft på europeisk datasenter. Navnet og kontaktopplysningene dine vil oppbevares adskilt fra øvrige data. 
+
+Avidentifiserte innsamlede data fra spørreundersøkelsen oversendes til UiO. Den vil benyttes til å fortelle oss noe om skolen/kommunen/fylkeskommunen, ikke om deg som individuell respondent. UiO kobler derfor disse på skolenivå med eksisterende avidentifiserte data fra registre og større spørreundersøkelser for skoler og elever via en koblingsnøkkel for skoler i Norge. Skolene vil avidentifiseres av Statistisk Sentralbyrå (SSB), slik at UiO ikke kjenner identiteten til hver enkelt skole. Disse koblede dataene behandles og oppbevares i [Tjenester for Sensitive Data (TSD)](https://www.uio.no/tjenester/it/forskning/sensitiv/), en portalløsning for trygg behandling av forskningsdata fra UiO. Alle våre databehandlingssystemer benytter to-faktorautentisering og kun [forskere i prosjektet](https://www.sv.uio.no/psi/english/research/projects/heals/index.html) har tilgang, da kun til avidentifiserte data.
+
+Forskningsprosjektet LIFE ved Universitetet i Stavanger (UiS) planlegger en lignende spørreundersøkelse i 2026 som vil fungere som en oppfølgingsstudie. Kontaktopplysningene dine vil derfor deles med UiS slik at UiS kan invitere deg til deres undersøkelse, med mindre du indikerer at du ikke vil delta i aktuelle oppfølgingsstudier. Din avidentifiserte besvarelse, og tilhørende koblingsnøkkel, vil også deles med UiS. UiS vil i likhet med NIFU og UiO være pliktig til å oppbevare og behandle opplysningene konfidensielt i tråd med EUs personvernforordning (GDPR) og personopplysningsloven. 
+
+Koblingsnøkkel mellom lister med kontaktopplysninger og besvarelser brukes til kvalitetssikring, å følge med på svarprosent, å sende påminnelser og å spørre deltakerne om interesse for relevante oppfølgingsstudier. NIFU sletter koblingen innen 30.09.2038. Når koblingen er slettet, vil besvarelsene ikke kunne knyttes direkte til personer som har svart. Ingen deltakere vil kunne gjenkjennes i publikasjoner eller annen type offentliggjøringer fra studien. 
+
+Dataene vil benyttes for videre forskning i feltet og etterprøvbarhet. Data fra spørreundersøkelsen vil derfor tilgjengeliggjøres i anonymisert form, i henhold til åpen forskning-prinsipper, for eksempel ved SIKTs forskningsarkiv og ev. [Open Science Foundation](osf.io). Anonymisert data innebærer at identifikatoren erstattes med en ny kode uten tilhørende koblingsnøkkel, slik at verken prosjektet eller andre vil kunne knytte informasjonen til deg som person eller til din arbeidsplass. 
 
 ## Hva gir oss rett til å behandle personopplysninger om deg?
 
@@ -30,7 +33,7 @@ Vi behandler personopplysninger basert på allmennhetens interesse, hjemlet i [p
 
 ## Dine rettigheter
 
-Så lenge du kan identifiseres i datamaterialet, har du rett til (a) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (b) å få rettet opplysninger om deg som er feil eller misvisende, (c) å få slettet personopplysninger om deg, (d) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet [www.datatilsynet.no](http://www.datatilsynet.no). NIFU og UiO er felles forpliktet gjennom [personvernforordningen artikkel 26](https://lovdata.no/lov/2018-06-15-38/gdpr/a26) til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.
+Så lenge du kan identifiseres i datamaterialet, har du rett til (a) å protestere, (b) å be om innsyn i hvilke opplysninger vi behandler om deg, og få utlevert en kopi av opplysningene, (c) å få rettet opplysninger om deg som er feil eller misvisende, (d) å få slettet personopplysninger om deg, (e) å sende klage til Datatilsynet om behandlingen av dine personopplysninger. Du vil da høre fra oss innen en måned. Vi vil gi deg en begrunnelse hvis vi mener at du ikke kan identifiseres, eller at rettighetene ikke kan utøves. Du har rett til å klage til Datatilsynet [www.datatilsynet.no](http://www.datatilsynet.no). NIFU og UiO er felles forpliktet gjennom [personvernforordningen artikkel 26](https://lovdata.no/lov/2018-06-15-38/gdpr/a26) til å oppfylle de registrertes rettigheter i henhold til GDPR kapittel 3.
 
 ## Spørsmål
 

@@ -2,4 +2,4 @@ Målet med studien er å samle inn informasjon fra skolene for å studere hva so
 
 ## Hvem er ansvarlig for undersøkelsene?
 
-*HeaLS* ledes av [Psykologisk institutt ved UiO](https://www.sv.uio.no/psi/english/research/projects/heals/index.html), mens [NIFU](https://www.nifu.no) har hovedansvar for datainnsamlingen som vil skje ca i februar 2025. UiO og NIFU har felles databehandleransvar, men kun NIFU håndterer personidentifiserende opplysninger relatert til datainnsamlingen. 
+*HeaLS* ledes av [Psykologisk institutt ved UiO](https://www.sv.uio.no/psi/english/research/projects/heals/index.html), mens [NIFU](https://www.nifu.no) har hovedansvar for datainnsamlingen som vil skje ca i februar 2025. UiO og NIFU er felles behandlingsansvarlige, men kun NIFU håndterer personidentifiserende opplysninger relatert til datainnsamlingen. 

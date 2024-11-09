@@ -1,0 +1,18 @@
+website:
+  draft-mode: gone
+  navbar:
+    left:
+      - sidebar:news
+      # - sidebar:invitees
+      - sidebar:schools
+      - sidebar:schoolowners
+      - sidebar:researchers
+      - kort_presentasjon/index.qmd
+      - kontakt_oss.qmd
+format:
+  html:
+    comments:
+      hypothesis: false
+project: 
+  output-dir: "_site-production"
+  post-render: "_extensions/remove_menu_links.R"

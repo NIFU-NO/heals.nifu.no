@@ -1,0 +1,17 @@
+website:
+  draft-mode: visible
+  navbar:
+    left:
+      - sidebar:news
+      - sidebar:invitees
+      - sidebar:schools
+      - sidebar:schoolowners
+      - sidebar:researchers
+      - kort_presentasjon/index.qmd
+      - kontakt_oss.qmd
+format:
+  html:
+    comments:
+      hypothesis: true
+project: 
+  output-dir: "_site-staging"

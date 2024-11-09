@@ -1,5 +1,6 @@
 ---
 title: "Epost: Spørreundersøkelse om ditt og deres arbeid med folkehelse og livsmestring"
+subtitle: "(her forenklet fra fire eposter til én epost)"
 format: 
   html: default
   typst: default
